@@ -7,11 +7,11 @@
     }
   ],
   "info": {
-    "contributor": "SPIN Instance Segmentation Team",
-    "date_created": "2025-11-11 23:17:47",
-    "description": "SPIN2 Part-level Instance Segmentation Dataset",
-    "url": "https://github.com/yourusername/SPIN-Instance-CVAT",
-    "version": "2.0",
+    "contributor": "Zhuoheng Li",
+    "date_created": "2025-11-11 22:25:41",
+    "description": "PartInventory: Instance-Level Annotations for Object Decompositions",
+    "url": "https://github.com/Andy-LZH/PartInventory",
+    "version": "0.1",
     "year": 2025
   },
   "categories": [

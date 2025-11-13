@@ -1,0 +1,172 @@
+
+================================================================================
+Part Inventory Dataset Statistics Generator
+================================================================================
+
+Processing train split...
+
+Processing val split...
+
+Processing test split...
+
+================================================================================
+DATASET SUMMARY STATISTICS
+================================================================================
+
+📊 Overall Statistics:
+  Total Images:              10,387
+  Total Annotation Entries:  45,280
+  Number of Categories:      40
+  Number of Supercategories: 11
+
+  ⚠️  IMPORTANT: Total Annotation Entries = 45,280
+     This is the sum of all annotation objects across the 3 JSON files.
+
+📁 Split Statistics:
+  Split      Images       Annotations     Avg Ann/Img    
+  ----------------------------------------------------
+  Train      8,828        38,397          4.35           
+  Val        519          2,348           4.52           
+  Test       1,040        4,535           4.36           
+
+  Combined total annotation entries: 45,280
+
+📈 Annotations per Image:
+  Mean:   4.36
+  Median: 4.00
+  Min:    1
+  Max:    22
+  Std:    1.95
+
+🔢 Instance Distribution (Images with N instances of a category):
+  Total image-category pairs: 32,576
+  Total instances: 45,280
+
+  Instances    Count        Total Inst   Percentage  
+  ------------------------------------------------
+  1            24,907       24,907       76.46       %
+  2            4,760        9,520        14.61       %
+  3            1,406        4,218        4.32        %
+  4            1,135        4,540        3.48        %
+  5            218          1,090        0.67        %
+  6            107          642          0.33        %
+  7            25           175          0.08        %
+  8            9            72           0.03        %
+  9            1            9            0.00        %
+  10           2            20           0.01        %
+  12           1            12           0.00        %
+  13           1            13           0.00        %
+  14           1            14           0.00        %
+  16           3            48           0.01        %
+
+  Summary:
+    Image-category pairs with 1 instance:   24,907 pairs
+    Image-category pairs with 2+ instances: 7,669 pairs
+
+    Total instances from single (1 each):   24,907 instances
+    Total instances from multiple (2+):     20,373 instances
+    Grand total:                             45,280 instances
+
+    Percentage of instances that are single: 55.01%
+    Percentage of instances that are multi:  44.99%
+
+📐 Annotation Area Statistics (pixels²):
+  Mean:   12430.52
+  Median: 3130.50
+  Min:    1.00
+  Max:    3684806.00
+  Std:    51450.97
+
+================================================================================
+
+====================================================================================================
+SUPERCATEGORY STATISTICS
+====================================================================================================
+
+Supercategory                  Total        Single       Multi        % Single    
+----------------------------------------------------------------------------------------------------
+Fish                           7,214        3,456        1,028        77.1        %
+Biped                          6,231        3,455        1,386        71.4        %
+Reptile                        6,030        3,084        1,001        75.5        %
+Bird                           5,557        3,626        962          79.0        %
+Quadruped                      5,458        2,968        793          78.9        %
+Car                            5,205        1,826        1,296        58.5        %
+Bicycle                        2,924        1,483        652          69.5        %
+Snake                          2,301        2,299        1            100.0       %
+Aeroplane                      2,018        1,050        358          74.6        %
+Boat                           1,467        785          192          80.3        %
+Bottle                         875          875          0            100.0       %
+====================================================================================================
+
+====================================================================================================
+CATEGORY STATISTICS
+====================================================================================================
+
+Category                       Total        Single       Multi        % Single    
+----------------------------------------------------------------------------------------------------
+Fish Fin                       3,915        157          1,028        13.2        %
+Reptile Foot                   3,091        145          1,001        12.7        %
+Car Tire                       2,964        117          1,041        10.1        %
+Quadruped Foot                 2,630        140          793          15.0        %
+Biped Arm                      2,019        310          854          26.6        %
+Bird Foot                      1,595        182          704          20.5        %
+Biped Leg                      1,408        341          532          39.1        %
+Bicycle Tire                   1,208        164          457          26.4        %
+Car Body                       1,199        1,199        0            100.0       %
+Bird Head                      1,195        1,195        0            100.0       %
+Fish Body                      1,194        1,194        0            100.0       %
+Biped Head                     1,194        1,194        0            100.0       %
+Quadruped Head                 1,194        1,194        0            100.0       %
+Fish Head                      1,191        1,191        0            100.0       %
+Bird Body                      1,190        1,190        0            100.0       %
+Reptile Body                   1,188        1,188        0            100.0       %
+Reptile Head                   1,187        1,187        0            100.0       %
+Biped Body                     1,182        1,182        0            100.0       %
+Quadruped Body                 1,181        1,181        0            100.0       %
+Snake Body                     1,178        1,178        0            100.0       %
+Snake Head                     1,123        1,121        1            99.9        %
+Car Side Mirror                1,042        510          255          66.7        %
+Bird Tail                      984          984          0            100.0       %
+Boat Sail                      916          234          192          54.9        %
+Fish Tail                      914          914          0            100.0       %
+Aeroplane Wing                 613          84           201          29.5        %
+Bicycle Head                   611          368          119          75.6        %
+Bicycle Body                   609          609          0            100.0       %
+Bird Wing                      593          75           258          22.5        %
+Reptile Tail                   564          564          0            100.0       %
+Boat Body                      551          551          0            100.0       %
+Aeroplane Engine               526          115          143          44.6        %
+Bicycle Seat                   496          342          76           81.8        %
+Bottle Body                    475          475          0            100.0       %
+Quadruped Tail                 453          453          0            100.0       %
+Biped Tail                     428          428          0            100.0       %
+Bottle Mouth                   400          400          0            100.0       %
+Aeroplane Body                 306          306          0            100.0       %
+Aeroplane Head                 295          295          0            100.0       %
+Aeroplane Tail                 278          250          14           94.7        %
+====================================================================================================
+
+================================================================================
+SPLIT COMPARISON
+================================================================================
+
+Instance Distribution by Split:
+Instances   Train          Val            Test           
+--------------------------------------------------------------------------------
+1           21,194         1,250          2,463          
+2           4,042          251            467            
+3           1,184          93             129            
+4           963            45             127            
+5           183            9              26             
+6           89             6              12             
+7           22             0              3              
+8           7              1              1              
+9           1              0              0              
+10          2              0              0              
+
+================================================================================
+
+✅ LaTeX table exported to: dataset_statistics.tex
+
+✅ Analysis complete!
+
