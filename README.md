@@ -1,4 +1,4 @@
-# PartInventory: Differentiating Part Instances in PartImageNet
+# PartInventory: Differentiating Instances from semantics
 
 **PartInventory** is a full-stack annotation and dataset creation system built to produce high-quality, instance-level part annotations from semantic masks (e.g., PartImageNet). The platform integrates CVAT-based task management with a custom crowdsourcing pipeline on MTurk, enabling efficient identification of single vs. multiple part instances and high-fidelity instance splits.
 
