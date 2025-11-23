@@ -1,0 +1,86 @@
+{
+  "agreeTest": {
+    "AeroplaneHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "AeroplaneBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "AeroplaneEngine": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "AeroplaneWing": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 89,
+      "disagreed": 11,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "AeroplaneTail": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 91,
+      "disagreed": 9,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "main": {
+    "AeroplaneHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "AeroplaneBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "AeroplaneEngine": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "AeroplaneWing": {
+      "groups_found": 19,
+      "submissions_found": 19,
+      "agreed": 185,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "AeroplaneTail": {
+      "groups_found": 17,
+      "submissions_found": 17,
+      "agreed": 164,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  }
+}

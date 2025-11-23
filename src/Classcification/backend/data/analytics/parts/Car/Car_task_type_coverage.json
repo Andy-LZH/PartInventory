@@ -1,0 +1,26 @@
+{
+  "agreeTest": {
+    "groups_found": 20,
+    "submissions_found": 40,
+    "agreed": 192,
+    "disagreed": 8,
+    "insufficient": 0,
+    "categories_with_results": [
+      "CarSideMirror",
+      "CarTire"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 173,
+    "submissions_found": 173,
+    "agreed": 1723,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "CarSideMirror",
+      "CarTire"
+    ],
+    "status": "OK"
+  }
+}

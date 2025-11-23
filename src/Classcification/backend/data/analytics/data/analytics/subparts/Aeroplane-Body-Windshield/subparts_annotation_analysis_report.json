@@ -1,0 +1,121 @@
+{
+  "analysis_type": "subpart_level",
+  "subpart_categories": [
+    "Aeroplane-Body-Windshield"
+  ],
+  "analysis_timestamp": "2025-11-06T08:30:06.787549",
+  "total_disagreed_annotations": 5,
+  "total_insufficient_annotations": 0,
+  "total_annotations_analyzed": 48,
+  "agreement_rate": 89.58333333333334,
+  "disagreement_rate": 10.416666666666668,
+  "insufficient_rate": 0.0,
+  "case_disagreements": [
+    {
+      "subpart_category": "Aeroplane-Body-Windshield",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 3,
+      "s3_path": "HITs/Aeroplane-Body-Windshield/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Aeroplane-Body-Windshield",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 8,
+      "s3_path": "HITs/Aeroplane-Body-Windshield/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Aeroplane-Body-Windshield",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 3,
+      "s3_path": "HITs/Aeroplane-Body-Windshield/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Aeroplane-Body-Windshield",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 2,
+      "s3_path": "HITs/Aeroplane-Body-Windshield/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Aeroplane-Body-Windshield",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 7,
+      "s3_path": "HITs/Aeroplane-Body-Windshield/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    }
+  ],
+  "case_insufficient": []
+}

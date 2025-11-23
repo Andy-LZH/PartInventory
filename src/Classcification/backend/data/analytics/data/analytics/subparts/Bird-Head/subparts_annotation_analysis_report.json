@@ -1,0 +1,294 @@
+{
+  "analysis_type": "subpart_level",
+  "subpart_categories": [
+    "Bird-Head-Eyes",
+    "Bird-Head-Beak",
+    "Bird-Head-Nostrils",
+    "Bird-Head-Forehead",
+    "Bird-Head-Neck",
+    "Bird-Head-Cheek"
+  ],
+  "analysis_timestamp": "2025-09-29T09:48:47.038870",
+  "total_disagreed_annotations": 13,
+  "total_insufficient_annotations": 0,
+  "total_annotations_analyzed": 150,
+  "agreement_rate": 91.33333333333333,
+  "disagreement_rate": 8.666666666666668,
+  "insufficient_rate": 0.0,
+  "case_disagreements": [
+    {
+      "subpart_category": "Bird-Head-Eyes",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 2,
+      "s3_path": "HITs/Bird-Head-Eyes/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 0,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 7,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 0,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 1,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 8,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 0,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 1,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 2,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 4,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 6,
+      "s3_path": "HITs/Bird-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Cheek",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 6,
+      "s3_path": "HITs/Bird-Head-Cheek/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Bird-Head-Cheek",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 1,
+      "s3_path": "HITs/Bird-Head-Cheek/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    }
+  ],
+  "case_insufficient": []
+}

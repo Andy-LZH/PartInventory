@@ -1,0 +1,59 @@
+{
+  "agreeTest": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  },
+  "spin_val_parts": {
+    "groups_found": 23,
+    "submissions_found": 46,
+    "agreed": 225,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "FishBody",
+      "FishFin",
+      "FishHead",
+      "FishTail"
+    ],
+    "status": "OK"
+  },
+  "spin_test_parts": {
+    "groups_found": 46,
+    "submissions_found": 92,
+    "agreed": 446,
+    "disagreed": 2,
+    "insufficient": 0,
+    "categories_with_results": [
+      "FishBody",
+      "FishFin",
+      "FishHead",
+      "FishTail"
+    ],
+    "status": "OK"
+  },
+  "spin_train_parts": {
+    "groups_found": 100,
+    "submissions_found": 100,
+    "agreed": 998,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "FishFin"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

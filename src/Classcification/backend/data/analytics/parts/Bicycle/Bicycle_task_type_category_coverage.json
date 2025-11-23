@@ -1,0 +1,212 @@
+{
+  "agreeTest": {
+    "BicycleBody": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 93,
+      "disagreed": 7,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BicycleSeat": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BicycleTire": {
+      "groups_found": 1,
+      "submissions_found": 1,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 10,
+      "status": "OK"
+    },
+    "BicycleTier": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_val_parts": {
+    "BicycleBody": {
+      "groups_found": 4,
+      "submissions_found": 8,
+      "agreed": 22,
+      "disagreed": 10,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleHead": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 24,
+      "disagreed": 1,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleSeat": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 23,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleTire": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BicycleTier": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 30,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_test_parts": {
+    "BicycleBody": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 43,
+      "disagreed": 17,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleHead": {
+      "groups_found": 5,
+      "submissions_found": 10,
+      "agreed": 46,
+      "disagreed": 1,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleSeat": {
+      "groups_found": 5,
+      "submissions_found": 10,
+      "agreed": 41,
+      "disagreed": 2,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleTire": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BicycleTier": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 59,
+      "disagreed": 1,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_train_parts": {
+    "BicycleBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BicycleHead": {
+      "groups_found": 42,
+      "submissions_found": 42,
+      "agreed": 415,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleSeat": {
+      "groups_found": 36,
+      "submissions_found": 36,
+      "agreed": 352,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleTire": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BicycleTier": {
+      "groups_found": 54,
+      "submissions_found": 54,
+      "agreed": 531,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "main": {
+    "BicycleBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BicycleHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BicycleSeat": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BicycleTire": {
+      "groups_found": 1,
+      "submissions_found": 1,
+      "agreed": 10,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BicycleTier": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  }
+}

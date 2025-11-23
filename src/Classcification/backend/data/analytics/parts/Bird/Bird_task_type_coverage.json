@@ -1,0 +1,65 @@
+{
+  "agreeTest": {
+    "groups_found": 20,
+    "submissions_found": 40,
+    "agreed": 186,
+    "disagreed": 14,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BirdFoot",
+      "BirdWing"
+    ],
+    "status": "OK"
+  },
+  "spin_val_parts": {
+    "groups_found": 26,
+    "submissions_found": 52,
+    "agreed": 243,
+    "disagreed": 5,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BirdBody",
+      "BirdFoot",
+      "BirdHead",
+      "BirdTail",
+      "BirdWing"
+    ],
+    "status": "OK"
+  },
+  "spin_test_parts": {
+    "groups_found": 46,
+    "submissions_found": 92,
+    "agreed": 433,
+    "disagreed": 9,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BirdBody",
+      "BirdFoot",
+      "BirdHead",
+      "BirdTail",
+      "BirdWing"
+    ],
+    "status": "OK"
+  },
+  "spin_train_parts": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  },
+  "main": {
+    "groups_found": 103,
+    "submissions_found": 103,
+    "agreed": 1019,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BirdFoot",
+      "BirdWing"
+    ],
+    "status": "OK"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "supercategory": "Bottle",
+  "analysis_timestamp": "2025-09-22T10:34:48.281738",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "agreeTest",
+    "spin_val_parts",
+    "spin_test_parts",
+    "main"
+  ],
+  "subcategories": [
+    "BottleMouth",
+    "BottleBody"
+  ],
+  "first_appearances": {},
+  "split_statistics": {
+    "BottleMouth": {
+      "agreeTest_total_annotations": 100,
+      "agreeTest_multiple_count": 0,
+      "agreeTest_multiple_rate": 0.0
+    },
+    "BottleBody": {
+      "spin_val_parts_total_annotations": 24,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    }
+  },
+  "summary_data": [],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 0.0,
+    "avg_multiple_rate": 0.0,
+    "total_first_multiples": 0
+  }
+}

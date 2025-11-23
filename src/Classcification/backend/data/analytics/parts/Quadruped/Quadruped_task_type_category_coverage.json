@@ -1,0 +1,212 @@
+{
+  "agreeTest": {
+    "QuadrupedHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedFoot": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedLeg": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_val_parts": {
+    "QuadrupedHead": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 60,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "QuadrupedBody": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 59,
+      "disagreed": 1,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "QuadrupedFoot": {
+      "groups_found": 5,
+      "submissions_found": 10,
+      "agreed": 50,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "QuadrupedTail": {
+      "groups_found": 2,
+      "submissions_found": 4,
+      "agreed": 20,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "QuadrupedLeg": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_test_parts": {
+    "QuadrupedHead": {
+      "groups_found": 12,
+      "submissions_found": 23,
+      "agreed": 109,
+      "disagreed": 1,
+      "insufficient": 10,
+      "status": "OK"
+    },
+    "QuadrupedBody": {
+      "groups_found": 11,
+      "submissions_found": 13,
+      "agreed": 17,
+      "disagreed": 3,
+      "insufficient": 87,
+      "status": "OK"
+    },
+    "QuadrupedFoot": {
+      "groups_found": 9,
+      "submissions_found": 17,
+      "agreed": 80,
+      "disagreed": 0,
+      "insufficient": 10,
+      "status": "OK"
+    },
+    "QuadrupedTail": {
+      "groups_found": 5,
+      "submissions_found": 10,
+      "agreed": 45,
+      "disagreed": 1,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "QuadrupedLeg": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_train_parts": {
+    "QuadrupedHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedFoot": {
+      "groups_found": 80,
+      "submissions_found": 80,
+      "agreed": 793,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "QuadrupedTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedLeg": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "main": {
+    "QuadrupedHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedFoot": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "QuadrupedLeg": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  }
+}

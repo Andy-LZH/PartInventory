@@ -1,0 +1,92 @@
+{
+  "agreeTest": {
+    "BottleMouth": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 100,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BottleBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_val_parts": {
+    "BottleMouth": {
+      "groups_found": 2,
+      "submissions_found": 4,
+      "agreed": 14,
+      "disagreed": 6,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BottleBody": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 24,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_test_parts": {
+    "BottleMouth": {
+      "groups_found": 4,
+      "submissions_found": 8,
+      "agreed": 21,
+      "disagreed": 18,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BottleBody": {
+      "groups_found": 5,
+      "submissions_found": 10,
+      "agreed": 49,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_train_parts": {
+    "BottleMouth": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BottleBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "main": {
+    "BottleMouth": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BottleBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  }
+}

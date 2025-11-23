@@ -1,0 +1,26 @@
+[
+  {
+    "category": "ReptileFoot",
+    "multi_count": 1011,
+    "total": 1144,
+    "multi_rate": 88.37
+  },
+  {
+    "category": "ReptileBody",
+    "multi_count": 0,
+    "total": 176,
+    "multi_rate": 0.0
+  },
+  {
+    "category": "ReptileHead",
+    "multi_count": 0,
+    "total": 179,
+    "multi_rate": 0.0
+  },
+  {
+    "category": "ReptileTail",
+    "multi_count": 0,
+    "total": 75,
+    "multi_rate": 0.0
+  }
+]

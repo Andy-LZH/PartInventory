@@ -1,0 +1,99 @@
+{
+  "supercategory": "Quadruped",
+  "analysis_timestamp": "2025-09-15T09:56:47.712367",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "spin_test_parts",
+    "spin_val_parts",
+    "agreeTest"
+  ],
+  "subcategories": [
+    "QuadrupedHead",
+    "QuadrupedBody",
+    "QuadrupedTail",
+    "QuadrupedLeg"
+  ],
+  "first_appearances": {
+    "QuadrupedBody": {
+      "spin_test_parts": {
+        "first_multiple_at_annotation": 29,
+        "annotations_to_5_multiples": 69,
+        "total_annotations": 69,
+        "multiple_count": 5,
+        "multiple_rate": 7.25,
+        "reached_5_multiples": true
+      },
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": null,
+        "total_annotations": 59,
+        "multiple_count": 1,
+        "multiple_rate": 1.69,
+        "reached_5_multiples": false
+      }
+    }
+  },
+  "split_statistics": {
+    "QuadrupedHead": {
+      "spin_test_parts_total_annotations": 119,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "QuadrupedBody": {
+      "spin_test_parts_total_annotations": 69,
+      "spin_test_parts_multiple_count": 5,
+      "spin_test_parts_multiple_rate": 7.246376811594203,
+      "spin_val_parts_total_annotations": 59,
+      "spin_val_parts_multiple_count": 1,
+      "spin_val_parts_multiple_rate": 1.694915254237288
+    },
+    "QuadrupedTail": {
+      "spin_test_parts_total_annotations": 45,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 20,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "QuadrupedLeg": {}
+  },
+  "summary_data": [
+    {
+      "category": "QuadrupedBody",
+      "split": "spin_test_parts",
+      "first_multiple_at_annotation": 29,
+      "annotations_to_5_multiples": 69,
+      "reached_5_multiples": true,
+      "total_annotations": 69,
+      "multiple_count": 5,
+      "multiple_rate": 7.25
+    },
+    {
+      "category": "QuadrupedBody",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": null,
+      "reached_5_multiples": false,
+      "total_annotations": 59,
+      "multiple_count": 1,
+      "multiple_rate": 1.69
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 15.0,
+    "avg_multiple_rate": 4.47,
+    "total_first_multiples": 2,
+    "first_multiples_annotations": [
+      29,
+      1
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 29,
+    "splits_reaching_5_multiples": 1,
+    "avg_annotations_to_5_multiples": 69.0
+  }
+}

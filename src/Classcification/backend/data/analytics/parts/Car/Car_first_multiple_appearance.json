@@ -1,0 +1,137 @@
+{
+  "supercategory": "Car",
+  "analysis_timestamp": "2025-09-15T09:57:43.742179",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "spin_test_parts",
+    "spin_val_parts",
+    "agreeTest"
+  ],
+  "subcategories": [
+    "CarBody",
+    "CarTire",
+    "CarSideMirror"
+  ],
+  "first_appearances": {
+    "CarTire": {
+      "agreeTest": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 6,
+        "total_annotations": 6,
+        "multiple_count": 5,
+        "multiple_rate": 83.33,
+        "reached_5_multiples": true
+      }
+    },
+    "CarSideMirror": {
+      "spin_test_parts": {
+        "first_multiple_at_annotation": 2,
+        "annotations_to_5_multiples": 13,
+        "total_annotations": 13,
+        "multiple_count": 5,
+        "multiple_rate": 38.46,
+        "reached_5_multiples": true
+      },
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 11,
+        "annotations_to_5_multiples": 19,
+        "total_annotations": 19,
+        "multiple_count": 5,
+        "multiple_rate": 26.32,
+        "reached_5_multiples": true
+      },
+      "agreeTest": {
+        "first_multiple_at_annotation": 5,
+        "annotations_to_5_multiples": 14,
+        "total_annotations": 14,
+        "multiple_count": 5,
+        "multiple_rate": 35.71,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "CarBody": {
+      "spin_test_parts_total_annotations": 120,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "CarTire": {
+      "agreeTest_total_annotations": 6,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 83.33333333333334
+    },
+    "CarSideMirror": {
+      "spin_test_parts_total_annotations": 13,
+      "spin_test_parts_multiple_count": 5,
+      "spin_test_parts_multiple_rate": 38.46153846153847,
+      "spin_val_parts_total_annotations": 19,
+      "spin_val_parts_multiple_count": 5,
+      "spin_val_parts_multiple_rate": 26.31578947368421,
+      "agreeTest_total_annotations": 14,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 35.714285714285715
+    }
+  },
+  "summary_data": [
+    {
+      "category": "CarTire",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 6,
+      "reached_5_multiples": true,
+      "total_annotations": 6,
+      "multiple_count": 5,
+      "multiple_rate": 83.33
+    },
+    {
+      "category": "CarSideMirror",
+      "split": "spin_test_parts",
+      "first_multiple_at_annotation": 2,
+      "annotations_to_5_multiples": 13,
+      "reached_5_multiples": true,
+      "total_annotations": 13,
+      "multiple_count": 5,
+      "multiple_rate": 38.46
+    },
+    {
+      "category": "CarSideMirror",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 11,
+      "annotations_to_5_multiples": 19,
+      "reached_5_multiples": true,
+      "total_annotations": 19,
+      "multiple_count": 5,
+      "multiple_rate": 26.32
+    },
+    {
+      "category": "CarSideMirror",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 5,
+      "annotations_to_5_multiples": 14,
+      "reached_5_multiples": true,
+      "total_annotations": 14,
+      "multiple_count": 5,
+      "multiple_rate": 35.71
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 4.75,
+    "avg_multiple_rate": 45.955,
+    "total_first_multiples": 4,
+    "first_multiples_annotations": [
+      1,
+      2,
+      11,
+      5
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 11,
+    "splits_reaching_5_multiples": 4,
+    "avg_annotations_to_5_multiples": 13.0
+  }
+}

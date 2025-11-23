@@ -1,0 +1,1325 @@
+{
+  "supercategory": "Quadruped",
+  "subcategories": [
+    "QuadrupedHead",
+    "QuadrupedBody",
+    "QuadrupedFoot",
+    "QuadrupedTail",
+    "QuadrupedLeg"
+  ],
+  "analysis_timestamp": "2025-09-10T17:41:10.635997",
+  "analysis_type": "annotation_level",
+  "total_disagreed_annotations": 6,
+  "total_insufficient_annotations": 107,
+  "total_annotations_analyzed": 1346,
+  "agreement_rate": 91.60475482912332,
+  "disagreement_rate": 0.44576523031203563,
+  "insufficient_rate": 7.949479940564635,
+  "case_disagreements": [
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 11,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_val_parts",
+      "group_index": 0,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_val_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 0,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 0,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 0,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "QuadrupedTail",
+      "task_type": "spin_test_parts",
+      "group_index": 2,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedTail/spin_test_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    }
+  ],
+  "case_insufficient": [
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedHead",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedHead/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 3,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 5,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 7,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 8,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": -1,
+      "result_label": "Something is wrong"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 9,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 10,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 11,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 11,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 11,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 11,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 11,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 11,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedBody",
+      "task_type": "spin_test_parts",
+      "group_index": 11,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedBody/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 0,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 1,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 2,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 3,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 4,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 5,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 6,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 7,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 8,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subcategory": "QuadrupedFoot",
+      "task_type": "spin_test_parts",
+      "group_index": 1,
+      "annotation_index": 9,
+      "s3_path": "HITs/QuadrupedFoot/spin_test_parts/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    }
+  ]
+}

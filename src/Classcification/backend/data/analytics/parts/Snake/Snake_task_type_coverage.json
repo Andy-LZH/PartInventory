@@ -1,0 +1,53 @@
+{
+  "agreeTest": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  },
+  "spin_val_parts": {
+    "groups_found": 12,
+    "submissions_found": 24,
+    "agreed": 117,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "SnakeBody",
+      "SnakeHead"
+    ],
+    "status": "OK"
+  },
+  "spin_test_parts": {
+    "groups_found": 23,
+    "submissions_found": 46,
+    "agreed": 226,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "SnakeBody",
+      "SnakeHead"
+    ],
+    "status": "OK"
+  },
+  "spin_train_parts": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

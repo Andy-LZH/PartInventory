@@ -1,0 +1,26 @@
+[
+  {
+    "category": "QuadrupedFoot",
+    "multi_count": 803,
+    "total": 923,
+    "multi_rate": 87.0
+  },
+  {
+    "category": "QuadrupedBody",
+    "multi_count": 1,
+    "total": 76,
+    "multi_rate": 1.32
+  },
+  {
+    "category": "QuadrupedHead",
+    "multi_count": 0,
+    "total": 169,
+    "multi_rate": 0.0
+  },
+  {
+    "category": "QuadrupedTail",
+    "multi_count": 0,
+    "total": 65,
+    "multi_rate": 0.0
+  }
+]

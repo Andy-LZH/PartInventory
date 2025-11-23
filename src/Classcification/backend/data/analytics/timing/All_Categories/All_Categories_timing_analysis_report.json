@@ -1,0 +1,372 @@
+{
+  "analysis_scope": "All_Categories",
+  "subcategories": "All",
+  "analysis_timestamp": "2025-09-04T15:06:40.153656",
+  "total_assignments": 1058,
+  "total_hit_ids": 536,
+  "duration_statistics": {
+    "mean_minutes": 7.049212350346566,
+    "median_minutes": 3.25,
+    "std_minutes": 9.120580886097398,
+    "min_minutes": 0.1,
+    "max_minutes": 59.15,
+    "q25_minutes": 1.4666666666666666,
+    "q75_minutes": 10.395833333333332
+  },
+  "category_statistics": {
+    "AeroplaneBody": {
+      "count": 12,
+      "mean": 5.07,
+      "median": 1.11,
+      "std": 9.27,
+      "min": 0.38,
+      "max": 24.93
+    },
+    "AeroplaneEngine": {
+      "count": 10,
+      "mean": 1.98,
+      "median": 1.12,
+      "std": 1.94,
+      "min": 0.1,
+      "max": 5.23
+    },
+    "AeroplaneHead": {
+      "count": 12,
+      "mean": 3.87,
+      "median": 0.87,
+      "std": 6.27,
+      "min": 0.13,
+      "max": 17.92
+    },
+    "AeroplaneTail": {
+      "count": 10,
+      "mean": 4.1,
+      "median": 0.81,
+      "std": 9.7,
+      "min": 0.12,
+      "max": 31.5
+    },
+    "AeroplaneWing": {
+      "count": 12,
+      "mean": 2.23,
+      "median": 2.07,
+      "std": 1.16,
+      "min": 0.65,
+      "max": 4.12
+    },
+    "BicycleBody": {
+      "count": 40,
+      "mean": 8.28,
+      "median": 7.73,
+      "std": 9.99,
+      "min": 0.38,
+      "max": 59.15
+    },
+    "BicycleHead": {
+      "count": 17,
+      "mean": 12.99,
+      "median": 11.12,
+      "std": 9.66,
+      "min": 1.97,
+      "max": 24.35
+    },
+    "BicycleSeat": {
+      "count": 16,
+      "mean": 11.76,
+      "median": 2.02,
+      "std": 18.68,
+      "min": 0.17,
+      "max": 53.47
+    },
+    "BicycleTier": {
+      "count": 18,
+      "mean": 14.09,
+      "median": 13.43,
+      "std": 12.36,
+      "min": 0.82,
+      "max": 27.05
+    },
+    "BipedBody": {
+      "count": 36,
+      "mean": 11.97,
+      "median": 5.55,
+      "std": 14.55,
+      "min": 0.38,
+      "max": 58.2
+    },
+    "BipedFoot": {
+      "count": 30,
+      "mean": 15.11,
+      "median": 16.52,
+      "std": 10.27,
+      "min": 0.48,
+      "max": 30.27
+    },
+    "BipedHand": {
+      "count": 36,
+      "mean": 9.15,
+      "median": 8.0,
+      "std": 6.31,
+      "min": 1.47,
+      "max": 21.1
+    },
+    "BipedHead": {
+      "count": 35,
+      "mean": 8.16,
+      "median": 6.42,
+      "std": 6.02,
+      "min": 2.13,
+      "max": 21.2
+    },
+    "BipedTail": {
+      "count": 16,
+      "mean": 6.45,
+      "median": 5.08,
+      "std": 4.53,
+      "min": 0.93,
+      "max": 14.05
+    },
+    "BirdBody": {
+      "count": 36,
+      "mean": 3.67,
+      "median": 3.21,
+      "std": 1.85,
+      "min": 0.85,
+      "max": 8.13
+    },
+    "BirdFoot": {
+      "count": 28,
+      "mean": 7.02,
+      "median": 6.07,
+      "std": 4.35,
+      "min": 1.03,
+      "max": 13.15
+    },
+    "BirdHead": {
+      "count": 36,
+      "mean": 5.52,
+      "median": 1.55,
+      "std": 10.55,
+      "min": 0.33,
+      "max": 56.13
+    },
+    "BirdTail": {
+      "count": 32,
+      "mean": 7.61,
+      "median": 2.08,
+      "std": 14.84,
+      "min": 0.3,
+      "max": 56.47
+    },
+    "BirdWing": {
+      "count": 32,
+      "mean": 2.17,
+      "median": 1.94,
+      "std": 1.31,
+      "min": 0.6,
+      "max": 5.37
+    },
+    "BoatBody": {
+      "count": 18,
+      "mean": 6.82,
+      "median": 1.06,
+      "std": 14.76,
+      "min": 0.15,
+      "max": 56.27
+    },
+    "BoatSail": {
+      "count": 16,
+      "mean": 2.0,
+      "median": 1.97,
+      "std": 0.81,
+      "min": 0.93,
+      "max": 3.65
+    },
+    "BottleBody": {
+      "count": 16,
+      "mean": 2.68,
+      "median": 1.33,
+      "std": 3.09,
+      "min": 0.23,
+      "max": 11.45
+    },
+    "BottleMouth": {
+      "count": 12,
+      "mean": 2.78,
+      "median": 2.34,
+      "std": 1.4,
+      "min": 0.92,
+      "max": 4.82
+    },
+    "CarBody": {
+      "count": 36,
+      "mean": 4.57,
+      "median": 4.18,
+      "std": 2.67,
+      "min": 1.22,
+      "max": 9.98
+    },
+    "CarSideMirror": {
+      "count": 26,
+      "mean": 7.34,
+      "median": 6.49,
+      "std": 4.24,
+      "min": 0.73,
+      "max": 13.97
+    },
+    "CarTier": {
+      "count": 36,
+      "mean": 4.99,
+      "median": 1.45,
+      "std": 7.37,
+      "min": 0.28,
+      "max": 36.05
+    },
+    "FishBody": {
+      "count": 36,
+      "mean": 8.39,
+      "median": 4.5,
+      "std": 7.19,
+      "min": 2.12,
+      "max": 19.93
+    },
+    "FishFin": {
+      "count": 36,
+      "mean": 5.72,
+      "median": 1.28,
+      "std": 9.19,
+      "min": 0.45,
+      "max": 35.53
+    },
+    "FishHead": {
+      "count": 36,
+      "mean": 7.04,
+      "median": 0.78,
+      "std": 14.6,
+      "min": 0.33,
+      "max": 51.92
+    },
+    "FishTail": {
+      "count": 30,
+      "mean": 7.3,
+      "median": 3.08,
+      "std": 6.94,
+      "min": 0.6,
+      "max": 20.32
+    },
+    "QuadrupedBody": {
+      "count": 25,
+      "mean": 16.81,
+      "median": 14.1,
+      "std": 13.81,
+      "min": 1.33,
+      "max": 40.52
+    },
+    "QuadrupedFoot": {
+      "count": 28,
+      "mean": 4.6,
+      "median": 3.53,
+      "std": 3.06,
+      "min": 1.13,
+      "max": 11.53
+    },
+    "QuadrupedHead": {
+      "count": 35,
+      "mean": 6.11,
+      "median": 4.77,
+      "std": 4.12,
+      "min": 0.87,
+      "max": 14.95
+    },
+    "QuadrupedTail": {
+      "count": 14,
+      "mean": 8.88,
+      "median": 8.15,
+      "std": 5.14,
+      "min": 2.57,
+      "max": 15.65
+    },
+    "ReptileBody": {
+      "count": 36,
+      "mean": 4.02,
+      "median": 1.48,
+      "std": 5.29,
+      "min": 0.37,
+      "max": 23.13
+    },
+    "ReptileFoot": {
+      "count": 36,
+      "mean": 7.28,
+      "median": 6.35,
+      "std": 5.38,
+      "min": 0.83,
+      "max": 13.23
+    },
+    "ReptileHead": {
+      "count": 36,
+      "mean": 7.44,
+      "median": 7.14,
+      "std": 5.14,
+      "min": 0.65,
+      "max": 13.25
+    },
+    "ReptileTail": {
+      "count": 16,
+      "mean": 10.73,
+      "median": 1.18,
+      "std": 18.43,
+      "min": 0.18,
+      "max": 58.5
+    },
+    "SnakeBody": {
+      "count": 36,
+      "mean": 2.69,
+      "median": 1.5,
+      "std": 3.95,
+      "min": 0.37,
+      "max": 21.52
+    },
+    "SnakeHead": {
+      "count": 34,
+      "mean": 7.36,
+      "median": 6.69,
+      "std": 5.26,
+      "min": 0.93,
+      "max": 13.37
+    }
+  },
+  "task_type_statistics": {
+    "agreeTest": {
+      "count": 40,
+      "mean": 5.37,
+      "median": 4.24,
+      "std": 4.03,
+      "min": 0.7,
+      "max": 13.17
+    },
+    "spin_test_parts": {
+      "count": 661,
+      "mean": 7.22,
+      "median": 3.33,
+      "std": 9.29,
+      "min": 0.13,
+      "max": 59.15
+    },
+    "spin_train_parts": {
+      "count": 2,
+      "mean": 7.67,
+      "median": 7.67,
+      "std": 4.88,
+      "min": 4.22,
+      "max": 11.12
+    },
+    "spin_val_parts": {
+      "count": 355,
+      "mean": 6.91,
+      "median": 3.0,
+      "std": 9.22,
+      "min": 0.1,
+      "max": 58.5
+    }
+  }
+}

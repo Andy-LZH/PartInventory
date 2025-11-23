@@ -1,0 +1,72 @@
+{
+  "supercategory": "Quadruped",
+  "analysis_timestamp": "2025-09-22T10:34:11.495894",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "agreeTest",
+    "spin_val_parts",
+    "spin_test_parts",
+    "main"
+  ],
+  "subcategories": [
+    "QuadrupedHead",
+    "QuadrupedBody",
+    "QuadrupedTail",
+    "QuadrupedLeg"
+  ],
+  "first_appearances": {
+    "QuadrupedBody": {
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": null,
+        "total_annotations": 59,
+        "multiple_count": 1,
+        "multiple_rate": 1.69,
+        "reached_5_multiples": false
+      }
+    }
+  },
+  "split_statistics": {
+    "QuadrupedHead": {
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "QuadrupedBody": {
+      "spin_val_parts_total_annotations": 59,
+      "spin_val_parts_multiple_count": 1,
+      "spin_val_parts_multiple_rate": 1.694915254237288
+    },
+    "QuadrupedTail": {
+      "spin_val_parts_total_annotations": 20,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "QuadrupedLeg": {}
+  },
+  "summary_data": [
+    {
+      "category": "QuadrupedBody",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": null,
+      "reached_5_multiples": false,
+      "total_annotations": 59,
+      "multiple_count": 1,
+      "multiple_rate": 1.69
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 1.0,
+    "avg_multiple_rate": 1.69,
+    "total_first_multiples": 1,
+    "first_multiples_annotations": [
+      1
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 1,
+    "splits_reaching_5_multiples": 0,
+    "avg_annotations_to_5_multiples": 0.0
+  }
+}

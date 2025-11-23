@@ -1,0 +1,29 @@
+{
+  "agreeTest": {
+    "groups_found": 40,
+    "submissions_found": 69,
+    "agreed": 256,
+    "disagreed": 14,
+    "insufficient": 130,
+    "categories_with_results": [
+      "Biped-Arm-Dorsalarea",
+      "Biped-Arm-Elbow",
+      "Biped-Arm-Fingers",
+      "Biped-Arm-Forearm",
+      "Biped-Arm-Palm",
+      "Biped-Arm-Shoulders",
+      "Biped-Arm-Upperarm",
+      "Biped-Arm-Wrist"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

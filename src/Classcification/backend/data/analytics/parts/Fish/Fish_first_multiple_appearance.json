@@ -1,0 +1,106 @@
+{
+  "supercategory": "Fish",
+  "analysis_timestamp": "2025-09-15T09:57:08.767329",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "spin_test_parts",
+    "spin_val_parts",
+    "agreeTest"
+  ],
+  "subcategories": [
+    "FishHead",
+    "FishBody",
+    "FishFin",
+    "FishTail"
+  ],
+  "first_appearances": {
+    "FishFin": {
+      "spin_test_parts": {
+        "first_multiple_at_annotation": 2,
+        "annotations_to_5_multiples": 8,
+        "total_annotations": 8,
+        "multiple_count": 5,
+        "multiple_rate": 62.5,
+        "reached_5_multiples": true
+      },
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 5,
+        "total_annotations": 5,
+        "multiple_count": 5,
+        "multiple_rate": 100.0,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "FishHead": {
+      "spin_test_parts_total_annotations": 119,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 59,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "FishBody": {
+      "spin_test_parts_total_annotations": 117,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 59,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "FishFin": {
+      "spin_test_parts_total_annotations": 8,
+      "spin_test_parts_multiple_count": 5,
+      "spin_test_parts_multiple_rate": 62.5,
+      "spin_val_parts_total_annotations": 5,
+      "spin_val_parts_multiple_count": 5,
+      "spin_val_parts_multiple_rate": 100.0
+    },
+    "FishTail": {
+      "spin_test_parts_total_annotations": 92,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 48,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    }
+  },
+  "summary_data": [
+    {
+      "category": "FishFin",
+      "split": "spin_test_parts",
+      "first_multiple_at_annotation": 2,
+      "annotations_to_5_multiples": 8,
+      "reached_5_multiples": true,
+      "total_annotations": 8,
+      "multiple_count": 5,
+      "multiple_rate": 62.5
+    },
+    {
+      "category": "FishFin",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 5,
+      "reached_5_multiples": true,
+      "total_annotations": 5,
+      "multiple_count": 5,
+      "multiple_rate": 100.0
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 1.5,
+    "avg_multiple_rate": 81.25,
+    "total_first_multiples": 2,
+    "first_multiples_annotations": [
+      2,
+      1
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 2,
+    "splits_reaching_5_multiples": 2,
+    "avg_annotations_to_5_multiples": 6.5
+  }
+}

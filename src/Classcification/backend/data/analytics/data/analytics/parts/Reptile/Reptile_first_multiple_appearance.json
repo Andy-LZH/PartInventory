@@ -1,0 +1,76 @@
+{
+  "supercategory": "Reptile",
+  "analysis_timestamp": "2025-09-22T10:34:33.078761",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "agreeTest",
+    "spin_val_parts",
+    "spin_test_parts",
+    "main"
+  ],
+  "subcategories": [
+    "ReptileHead",
+    "ReptileBody",
+    "ReptileFoot",
+    "ReptileTail"
+  ],
+  "first_appearances": {
+    "ReptileFoot": {
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 5,
+        "total_annotations": 5,
+        "multiple_count": 5,
+        "multiple_rate": 100.0,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "ReptileHead": {
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "ReptileBody": {
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "ReptileFoot": {
+      "spin_val_parts_total_annotations": 5,
+      "spin_val_parts_multiple_count": 5,
+      "spin_val_parts_multiple_rate": 100.0
+    },
+    "ReptileTail": {
+      "spin_val_parts_total_annotations": 25,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    }
+  },
+  "summary_data": [
+    {
+      "category": "ReptileFoot",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 5,
+      "reached_5_multiples": true,
+      "total_annotations": 5,
+      "multiple_count": 5,
+      "multiple_rate": 100.0
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 1.0,
+    "avg_multiple_rate": 100.0,
+    "total_first_multiples": 1,
+    "first_multiples_annotations": [
+      1
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 1,
+    "splits_reaching_5_multiples": 1,
+    "avg_annotations_to_5_multiples": 5.0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "agreeTest": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  },
+  "spin_val_parts": {
+    "groups_found": 19,
+    "submissions_found": 38,
+    "agreed": 189,
+    "disagreed": 1,
+    "insufficient": 0,
+    "categories_with_results": [
+      "QuadrupedBody",
+      "QuadrupedFoot",
+      "QuadrupedHead",
+      "QuadrupedTail"
+    ],
+    "status": "OK"
+  },
+  "spin_test_parts": {
+    "groups_found": 37,
+    "submissions_found": 63,
+    "agreed": 251,
+    "disagreed": 5,
+    "insufficient": 107,
+    "categories_with_results": [
+      "QuadrupedBody",
+      "QuadrupedFoot",
+      "QuadrupedHead",
+      "QuadrupedTail"
+    ],
+    "status": "OK"
+  },
+  "spin_train_parts": {
+    "groups_found": 80,
+    "submissions_found": 80,
+    "agreed": 793,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "QuadrupedFoot"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

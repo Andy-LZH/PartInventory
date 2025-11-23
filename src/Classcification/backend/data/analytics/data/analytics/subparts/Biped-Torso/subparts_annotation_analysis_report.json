@@ -1,0 +1,40 @@
+{
+  "analysis_type": "subpart_level",
+  "subpart_categories": [
+    "Biped-Torso-Chest",
+    "Biped-Torso-Abdomen",
+    "Biped-Torso-Back",
+    "Biped-Torso-Shoulders"
+  ],
+  "analysis_timestamp": "2025-09-25T01:14:21.104619",
+  "total_disagreed_annotations": 1,
+  "total_insufficient_annotations": 0,
+  "total_annotations_analyzed": 50,
+  "agreement_rate": 98.0,
+  "disagreement_rate": 2.0,
+  "insufficient_rate": 0.0,
+  "case_disagreements": [
+    {
+      "subpart_category": "Biped-Torso-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Torso-Shoulders/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    }
+  ],
+  "case_insufficient": []
+}

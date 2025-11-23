@@ -1,0 +1,14 @@
+[
+  {
+    "category": "BoatSail",
+    "multi_count": 357,
+    "total": 425,
+    "multi_rate": 84.0
+  },
+  {
+    "category": "BoatBody",
+    "multi_count": 0,
+    "total": 79,
+    "multi_rate": 0.0
+  }
+]

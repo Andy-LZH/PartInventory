@@ -1,0 +1,1748 @@
+{
+  "analysis_type": "subpart_level",
+  "subpart_categories": [
+    "Biped-Arm-Forearm",
+    "Biped-Arm-Elbow",
+    "Biped-Arm-Upperarm",
+    "Biped-Arm-Wrist",
+    "Biped-Arm-Palm",
+    "Biped-Arm-Dorsalarea",
+    "Biped-Arm-Fingers",
+    "Biped-Arm-Shoulders"
+  ],
+  "analysis_timestamp": "2025-09-28T18:51:22.887942",
+  "total_disagreed_annotations": 14,
+  "total_insufficient_annotations": 130,
+  "total_annotations_analyzed": 400,
+  "agreement_rate": 64.0,
+  "disagreement_rate": 3.5000000000000004,
+  "insufficient_rate": 32.5,
+  "case_disagreements": [
+    {
+      "subpart_category": "Biped-Arm-Upperarm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Upperarm/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Upperarm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Upperarm/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Upperarm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Upperarm/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Upperarm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Upperarm/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        -1
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "1": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Palm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Palm/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Palm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Palm/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Fingers",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Fingers/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Fingers",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Fingers/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Biped-Arm-Fingers",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Fingers/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        -1
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "1": 1,
+        "-1": 1
+      }
+    }
+  ],
+  "case_insufficient": [
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Forearm",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Forearm/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Wrist",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Wrist/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Dorsalarea",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Dorsalarea/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 0,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 1,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 2,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 3,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 4,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 5,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 6,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 7,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 8,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 1,
+      "result_label": "Multiple Instances"
+    },
+    {
+      "subpart_category": "Biped-Arm-Shoulders",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 9,
+      "s3_path": "HITs/Biped-Arm-Shoulders/agreeTest/live/",
+      "reason": "Insufficient submissions (less than 2)",
+      "submission_count": 1,
+      "result": 0,
+      "result_label": "One Instance"
+    }
+  ]
+}

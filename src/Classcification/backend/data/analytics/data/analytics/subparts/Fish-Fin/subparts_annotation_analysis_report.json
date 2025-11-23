@@ -1,0 +1,249 @@
+{
+  "analysis_type": "subpart_level",
+  "subpart_categories": [
+    "Fish-Fin-DorsalFins",
+    "Fish-Fin-PectoralFins",
+    "Fish-Fin-VentralFins"
+  ],
+  "analysis_timestamp": "2025-10-02T21:33:02.784982",
+  "total_disagreed_annotations": 11,
+  "total_insufficient_annotations": 0,
+  "total_annotations_analyzed": 150,
+  "agreement_rate": 92.66666666666666,
+  "disagreement_rate": 7.333333333333333,
+  "insufficient_rate": 0.0,
+  "case_disagreements": [
+    {
+      "subpart_category": "Fish-Fin-DorsalFins",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 8,
+      "s3_path": "HITs/Fish-Fin-DorsalFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-DorsalFins",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 2,
+      "s3_path": "HITs/Fish-Fin-DorsalFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-PectoralFins",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 1,
+      "s3_path": "HITs/Fish-Fin-PectoralFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-PectoralFins",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 4,
+      "s3_path": "HITs/Fish-Fin-PectoralFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-PectoralFins",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 5,
+      "s3_path": "HITs/Fish-Fin-PectoralFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-PectoralFins",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 5,
+      "s3_path": "HITs/Fish-Fin-PectoralFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-VentralFins",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 5,
+      "s3_path": "HITs/Fish-Fin-VentralFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-VentralFins",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 2,
+      "s3_path": "HITs/Fish-Fin-VentralFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-VentralFins",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 6,
+      "s3_path": "HITs/Fish-Fin-VentralFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-VentralFins",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 7,
+      "s3_path": "HITs/Fish-Fin-VentralFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Fish-Fin-VentralFins",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 2,
+      "s3_path": "HITs/Fish-Fin-VentralFins/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    }
+  ],
+  "case_insufficient": []
+}

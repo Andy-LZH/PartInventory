@@ -1,0 +1,23 @@
+{
+  "agreeTest": {
+    "groups_found": 10,
+    "submissions_found": 18,
+    "agreed": 75,
+    "disagreed": 5,
+    "insufficient": 20,
+    "categories_with_results": [
+      "Fish-Tail-LowerLobe",
+      "Fish-Tail-UpperLobe"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

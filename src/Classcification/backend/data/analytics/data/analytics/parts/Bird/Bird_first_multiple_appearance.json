@@ -1,0 +1,103 @@
+{
+  "supercategory": "Bird",
+  "analysis_timestamp": "2025-09-22T10:34:25.209319",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "agreeTest",
+    "spin_val_parts",
+    "spin_test_parts",
+    "main"
+  ],
+  "subcategories": [
+    "BirdHead",
+    "BirdBody",
+    "BirdWing",
+    "BirdFoot",
+    "BirdTail"
+  ],
+  "first_appearances": {
+    "BirdWing": {
+      "agreeTest": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 5,
+        "total_annotations": 5,
+        "multiple_count": 5,
+        "multiple_rate": 100.0,
+        "reached_5_multiples": true
+      }
+    },
+    "BirdFoot": {
+      "agreeTest": {
+        "first_multiple_at_annotation": 2,
+        "annotations_to_5_multiples": 7,
+        "total_annotations": 7,
+        "multiple_count": 5,
+        "multiple_rate": 71.43,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "BirdHead": {
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "BirdBody": {
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "BirdWing": {
+      "agreeTest_total_annotations": 5,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 100.0
+    },
+    "BirdFoot": {
+      "agreeTest_total_annotations": 7,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 71.42857142857143
+    },
+    "BirdTail": {
+      "spin_val_parts_total_annotations": 54,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    }
+  },
+  "summary_data": [
+    {
+      "category": "BirdWing",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 5,
+      "reached_5_multiples": true,
+      "total_annotations": 5,
+      "multiple_count": 5,
+      "multiple_rate": 100.0
+    },
+    {
+      "category": "BirdFoot",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 2,
+      "annotations_to_5_multiples": 7,
+      "reached_5_multiples": true,
+      "total_annotations": 7,
+      "multiple_count": 5,
+      "multiple_rate": 71.43
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 1.5,
+    "avg_multiple_rate": 85.715,
+    "total_first_multiples": 2,
+    "first_multiples_annotations": [
+      1,
+      2
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 2,
+    "splits_reaching_5_multiples": 2,
+    "avg_annotations_to_5_multiples": 6.0
+  }
+}

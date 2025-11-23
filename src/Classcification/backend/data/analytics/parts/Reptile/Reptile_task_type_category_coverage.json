@@ -1,0 +1,172 @@
+{
+  "agreeTest": {
+    "ReptileHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "ReptileBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "ReptileFoot": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "ReptileTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_val_parts": {
+    "ReptileHead": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 60,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "ReptileBody": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 59,
+      "disagreed": 1,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "ReptileFoot": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 57,
+      "disagreed": 2,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "ReptileTail": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 25,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_test_parts": {
+    "ReptileHead": {
+      "groups_found": 12,
+      "submissions_found": 24,
+      "agreed": 119,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "ReptileBody": {
+      "groups_found": 12,
+      "submissions_found": 24,
+      "agreed": 117,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "ReptileFoot": {
+      "groups_found": 12,
+      "submissions_found": 24,
+      "agreed": 111,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "ReptileTail": {
+      "groups_found": 5,
+      "submissions_found": 10,
+      "agreed": 50,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_train_parts": {
+    "ReptileHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "ReptileBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "ReptileFoot": {
+      "groups_found": 98,
+      "submissions_found": 98,
+      "agreed": 976,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "ReptileTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "main": {
+    "ReptileHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "ReptileBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "ReptileFoot": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "ReptileTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  }
+}

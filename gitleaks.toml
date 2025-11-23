@@ -1,0 +1,5 @@
+[allowlist]
+description = "Ignore specific data files"
+paths = [
+    '''src/CVAT/merged/spin2_dev/spin2_train_parts_with_instances.json'''
+]

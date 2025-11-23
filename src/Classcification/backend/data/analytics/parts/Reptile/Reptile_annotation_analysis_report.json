@@ -1,0 +1,78 @@
+{
+  "supercategory": "Reptile",
+  "subcategories": [
+    "ReptileHead",
+    "ReptileBody",
+    "ReptileFoot",
+    "ReptileTail"
+  ],
+  "analysis_timestamp": "2025-09-10T17:42:50.269034",
+  "analysis_type": "annotation_level",
+  "total_disagreed_annotations": 3,
+  "total_insufficient_annotations": 0,
+  "total_annotations_analyzed": 1577,
+  "agreement_rate": 99.80976537729866,
+  "disagreement_rate": 0.19023462270133165,
+  "insufficient_rate": 0.0,
+  "case_disagreements": [
+    {
+      "subcategory": "ReptileBody",
+      "task_type": "spin_val_parts",
+      "group_index": 0,
+      "annotation_index": 9,
+      "s3_path": "HITs/ReptileBody/spin_val_parts/live/",
+      "reason": "Insufficient submissions",
+      "submission_count": 2,
+      "results": [
+        0
+      ],
+      "result_labels": [
+        "One Instance"
+      ],
+      "result_distribution": {}
+    },
+    {
+      "subcategory": "ReptileFoot",
+      "task_type": "spin_val_parts",
+      "group_index": 1,
+      "annotation_index": 3,
+      "s3_path": "HITs/ReptileFoot/spin_val_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "ReptileFoot",
+      "task_type": "spin_val_parts",
+      "group_index": 4,
+      "annotation_index": 8,
+      "s3_path": "HITs/ReptileFoot/spin_val_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    }
+  ],
+  "case_insufficient": []
+}

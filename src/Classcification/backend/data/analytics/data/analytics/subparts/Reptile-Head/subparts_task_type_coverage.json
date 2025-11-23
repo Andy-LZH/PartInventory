@@ -1,0 +1,24 @@
+{
+  "agreeTest": {
+    "groups_found": 15,
+    "submissions_found": 30,
+    "agreed": 134,
+    "disagreed": 16,
+    "insufficient": 0,
+    "categories_with_results": [
+      "Reptile-Head-Ears",
+      "Reptile-Head-Eyes",
+      "Reptile-Head-Nostrils"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

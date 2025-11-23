@@ -1,0 +1,70 @@
+{
+  "agreeTest": {
+    "CarBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "CarTire": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 100,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "CarSideMirror": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 92,
+      "disagreed": 8,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "CarTier": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "main": {
+    "CarBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "CarTire": {
+      "groups_found": 106,
+      "submissions_found": 106,
+      "agreed": 1058,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "CarSideMirror": {
+      "groups_found": 67,
+      "submissions_found": 67,
+      "agreed": 665,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "CarTier": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  }
+}

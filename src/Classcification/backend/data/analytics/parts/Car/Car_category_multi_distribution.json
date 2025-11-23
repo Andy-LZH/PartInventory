@@ -1,0 +1,20 @@
+[
+  {
+    "category": "CarSideMirror",
+    "multi_count": 291,
+    "total": 868,
+    "multi_rate": 33.53
+  },
+  {
+    "category": "CarTier",
+    "multi_count": 157,
+    "total": 173,
+    "multi_rate": 90.75
+  },
+  {
+    "category": "CarBody",
+    "multi_count": 0,
+    "total": 180,
+    "multi_rate": 0.0
+  }
+]

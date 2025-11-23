@@ -1,0 +1,106 @@
+{
+  "supercategory": "Reptile",
+  "analysis_timestamp": "2025-09-15T09:57:37.984046",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "spin_test_parts",
+    "spin_val_parts",
+    "agreeTest"
+  ],
+  "subcategories": [
+    "ReptileHead",
+    "ReptileBody",
+    "ReptileFoot",
+    "ReptileTail"
+  ],
+  "first_appearances": {
+    "ReptileFoot": {
+      "spin_test_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 5,
+        "total_annotations": 5,
+        "multiple_count": 5,
+        "multiple_rate": 100.0,
+        "reached_5_multiples": true
+      },
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 5,
+        "total_annotations": 5,
+        "multiple_count": 5,
+        "multiple_rate": 100.0,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "ReptileHead": {
+      "spin_test_parts_total_annotations": 119,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "ReptileBody": {
+      "spin_test_parts_total_annotations": 117,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "ReptileFoot": {
+      "spin_test_parts_total_annotations": 5,
+      "spin_test_parts_multiple_count": 5,
+      "spin_test_parts_multiple_rate": 100.0,
+      "spin_val_parts_total_annotations": 5,
+      "spin_val_parts_multiple_count": 5,
+      "spin_val_parts_multiple_rate": 100.0
+    },
+    "ReptileTail": {
+      "spin_test_parts_total_annotations": 50,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 25,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    }
+  },
+  "summary_data": [
+    {
+      "category": "ReptileFoot",
+      "split": "spin_test_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 5,
+      "reached_5_multiples": true,
+      "total_annotations": 5,
+      "multiple_count": 5,
+      "multiple_rate": 100.0
+    },
+    {
+      "category": "ReptileFoot",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 5,
+      "reached_5_multiples": true,
+      "total_annotations": 5,
+      "multiple_count": 5,
+      "multiple_rate": 100.0
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 1.0,
+    "avg_multiple_rate": 100.0,
+    "total_first_multiples": 2,
+    "first_multiples_annotations": [
+      1,
+      1
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 1,
+    "splits_reaching_5_multiples": 2,
+    "avg_annotations_to_5_multiples": 5.0
+  }
+}

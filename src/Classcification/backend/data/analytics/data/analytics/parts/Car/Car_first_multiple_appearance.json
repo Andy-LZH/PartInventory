@@ -1,0 +1,91 @@
+{
+  "supercategory": "Car",
+  "analysis_timestamp": "2025-09-22T10:34:35.620280",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "agreeTest",
+    "spin_val_parts",
+    "spin_test_parts",
+    "main"
+  ],
+  "subcategories": [
+    "CarBody",
+    "CarTire",
+    "CarSideMirror"
+  ],
+  "first_appearances": {
+    "CarTire": {
+      "agreeTest": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 6,
+        "total_annotations": 6,
+        "multiple_count": 5,
+        "multiple_rate": 83.33,
+        "reached_5_multiples": true
+      }
+    },
+    "CarSideMirror": {
+      "agreeTest": {
+        "first_multiple_at_annotation": 5,
+        "annotations_to_5_multiples": 14,
+        "total_annotations": 14,
+        "multiple_count": 5,
+        "multiple_rate": 35.71,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "CarBody": {
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "CarTire": {
+      "agreeTest_total_annotations": 6,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 83.33333333333334
+    },
+    "CarSideMirror": {
+      "agreeTest_total_annotations": 14,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 35.714285714285715
+    }
+  },
+  "summary_data": [
+    {
+      "category": "CarTire",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 6,
+      "reached_5_multiples": true,
+      "total_annotations": 6,
+      "multiple_count": 5,
+      "multiple_rate": 83.33
+    },
+    {
+      "category": "CarSideMirror",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 5,
+      "annotations_to_5_multiples": 14,
+      "reached_5_multiples": true,
+      "total_annotations": 14,
+      "multiple_count": 5,
+      "multiple_rate": 35.71
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 3.0,
+    "avg_multiple_rate": 59.519999999999996,
+    "total_first_multiples": 2,
+    "first_multiples_annotations": [
+      1,
+      5
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 5,
+    "splits_reaching_5_multiples": 2,
+    "avg_annotations_to_5_multiples": 10.0
+  }
+}

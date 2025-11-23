@@ -1,0 +1,26 @@
+[
+  {
+    "category": "FishFin",
+    "multi_count": 1047,
+    "total": 1175,
+    "multi_rate": 89.11
+  },
+  {
+    "category": "FishBody",
+    "multi_count": 0,
+    "total": 176,
+    "multi_rate": 0.0
+  },
+  {
+    "category": "FishHead",
+    "multi_count": 0,
+    "total": 178,
+    "multi_rate": 0.0
+  },
+  {
+    "category": "FishTail",
+    "multi_count": 0,
+    "total": 140,
+    "multi_rate": 0.0
+  }
+]

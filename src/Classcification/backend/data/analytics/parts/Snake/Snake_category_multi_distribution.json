@@ -1,0 +1,14 @@
+[
+  {
+    "category": "SnakeHead",
+    "multi_count": 1,
+    "total": 166,
+    "multi_rate": 0.6
+  },
+  {
+    "category": "SnakeBody",
+    "multi_count": 0,
+    "total": 177,
+    "multi_rate": 0.0
+  }
+]

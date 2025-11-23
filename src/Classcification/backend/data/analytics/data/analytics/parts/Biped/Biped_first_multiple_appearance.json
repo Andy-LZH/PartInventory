@@ -1,0 +1,103 @@
+{
+  "supercategory": "Biped",
+  "analysis_timestamp": "2025-09-22T10:34:15.703763",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "agreeTest",
+    "spin_val_parts",
+    "spin_test_parts",
+    "main"
+  ],
+  "subcategories": [
+    "BipedHead",
+    "BipedBody",
+    "BipedArm",
+    "BipedLeg",
+    "BipedTail"
+  ],
+  "first_appearances": {
+    "BipedArm": {
+      "agreeTest": {
+        "first_multiple_at_annotation": 2,
+        "annotations_to_5_multiples": 8,
+        "total_annotations": 8,
+        "multiple_count": 5,
+        "multiple_rate": 62.5,
+        "reached_5_multiples": true
+      }
+    },
+    "BipedLeg": {
+      "agreeTest": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 7,
+        "total_annotations": 7,
+        "multiple_count": 5,
+        "multiple_rate": 71.43,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "BipedHead": {
+      "spin_val_parts_total_annotations": 59,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "BipedBody": {
+      "spin_val_parts_total_annotations": 59,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "BipedArm": {
+      "agreeTest_total_annotations": 8,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 62.5
+    },
+    "BipedLeg": {
+      "agreeTest_total_annotations": 7,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 71.42857142857143
+    },
+    "BipedTail": {
+      "spin_val_parts_total_annotations": 21,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    }
+  },
+  "summary_data": [
+    {
+      "category": "BipedArm",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 2,
+      "annotations_to_5_multiples": 8,
+      "reached_5_multiples": true,
+      "total_annotations": 8,
+      "multiple_count": 5,
+      "multiple_rate": 62.5
+    },
+    {
+      "category": "BipedLeg",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 7,
+      "reached_5_multiples": true,
+      "total_annotations": 7,
+      "multiple_count": 5,
+      "multiple_rate": 71.43
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 1.5,
+    "avg_multiple_rate": 66.965,
+    "total_first_multiples": 2,
+    "first_multiples_annotations": [
+      2,
+      1
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 2,
+    "splits_reaching_5_multiples": 2,
+    "avg_annotations_to_5_multiples": 7.5
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "agreeTest": {
+    "groups_found": 11,
+    "submissions_found": 21,
+    "agreed": 93,
+    "disagreed": 7,
+    "insufficient": 10,
+    "categories_with_results": [
+      "BicycleBody",
+      "BicycleTire"
+    ],
+    "status": "OK"
+  },
+  "spin_val_parts": {
+    "groups_found": 13,
+    "submissions_found": 26,
+    "agreed": 99,
+    "disagreed": 11,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BicycleBody",
+      "BicycleHead",
+      "BicycleSeat",
+      "BicycleTier"
+    ],
+    "status": "OK"
+  },
+  "spin_test_parts": {
+    "groups_found": 22,
+    "submissions_found": 44,
+    "agreed": 189,
+    "disagreed": 21,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BicycleBody",
+      "BicycleHead",
+      "BicycleSeat",
+      "BicycleTier"
+    ],
+    "status": "OK"
+  },
+  "spin_train_parts": {
+    "groups_found": 132,
+    "submissions_found": 132,
+    "agreed": 1298,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BicycleHead",
+      "BicycleSeat",
+      "BicycleTier"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 1,
+    "submissions_found": 1,
+    "agreed": 10,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BicycleTire"
+    ],
+    "status": "OK"
+  }
+}

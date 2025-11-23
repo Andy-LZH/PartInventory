@@ -1,0 +1,32 @@
+[
+  {
+    "category": "BicycleTier",
+    "multi_count": 460,
+    "total": 620,
+    "multi_rate": 74.19
+  },
+  {
+    "category": "BicycleHead",
+    "multi_count": 122,
+    "total": 485,
+    "multi_rate": 25.15
+  },
+  {
+    "category": "BicycleSeat",
+    "multi_count": 76,
+    "total": 416,
+    "multi_rate": 18.27
+  },
+  {
+    "category": "BicycleTire",
+    "multi_count": 7,
+    "total": 10,
+    "multi_rate": 70.0
+  },
+  {
+    "category": "BicycleBody",
+    "multi_count": 0,
+    "total": 158,
+    "multi_rate": 0.0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "agreeTest": {
+    "groups_found": 10,
+    "submissions_found": 20,
+    "agreed": 100,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BottleMouth"
+    ],
+    "status": "OK"
+  },
+  "spin_val_parts": {
+    "groups_found": 5,
+    "submissions_found": 10,
+    "agreed": 38,
+    "disagreed": 6,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BottleBody",
+      "BottleMouth"
+    ],
+    "status": "OK"
+  },
+  "spin_test_parts": {
+    "groups_found": 9,
+    "submissions_found": 18,
+    "agreed": 70,
+    "disagreed": 18,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BottleBody",
+      "BottleMouth"
+    ],
+    "status": "OK"
+  },
+  "spin_train_parts": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

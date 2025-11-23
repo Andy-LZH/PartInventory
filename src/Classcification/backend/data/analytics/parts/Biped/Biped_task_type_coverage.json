@@ -1,0 +1,61 @@
+{
+  "agreeTest": {
+    "groups_found": 20,
+    "submissions_found": 50,
+    "agreed": 191,
+    "disagreed": 9,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BipedArm",
+      "BipedLeg"
+    ],
+    "status": "OK"
+  },
+  "spin_val_parts": {
+    "groups_found": 15,
+    "submissions_found": 29,
+    "agreed": 129,
+    "disagreed": 1,
+    "insufficient": 10,
+    "categories_with_results": [
+      "BipedBody",
+      "BipedHead",
+      "BipedTail"
+    ],
+    "status": "OK"
+  },
+  "spin_test_parts": {
+    "groups_found": 29,
+    "submissions_found": 58,
+    "agreed": 286,
+    "disagreed": 1,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BipedBody",
+      "BipedHead",
+      "BipedTail"
+    ],
+    "status": "OK"
+  },
+  "spin_train_parts": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  },
+  "main": {
+    "groups_found": 185,
+    "submissions_found": 185,
+    "agreed": 1837,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BipedArm",
+      "BipedLeg"
+    ],
+    "status": "OK"
+  }
+}

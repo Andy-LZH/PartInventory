@@ -1,0 +1,124 @@
+{
+  "supercategory": "Bicycle",
+  "analysis_timestamp": "2025-09-22T10:34:39.979292",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "agreeTest",
+    "spin_val_parts",
+    "spin_test_parts",
+    "main"
+  ],
+  "subcategories": [
+    "BicycleBody",
+    "BicycleHead",
+    "BicycleSeat",
+    "BicycleTire",
+    "BicycleTier"
+  ],
+  "first_appearances": {
+    "BicycleHead": {
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 23,
+        "total_annotations": 23,
+        "multiple_count": 5,
+        "multiple_rate": 21.74,
+        "reached_5_multiples": true
+      }
+    },
+    "BicycleSeat": {
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 20,
+        "annotations_to_5_multiples": null,
+        "total_annotations": 23,
+        "multiple_count": 2,
+        "multiple_rate": 8.7,
+        "reached_5_multiples": false
+      }
+    },
+    "BicycleTier": {
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 7,
+        "total_annotations": 7,
+        "multiple_count": 5,
+        "multiple_rate": 71.43,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "BicycleBody": {
+      "agreeTest_total_annotations": 93,
+      "agreeTest_multiple_count": 0,
+      "agreeTest_multiple_rate": 0.0
+    },
+    "BicycleHead": {
+      "spin_val_parts_total_annotations": 23,
+      "spin_val_parts_multiple_count": 5,
+      "spin_val_parts_multiple_rate": 21.73913043478261
+    },
+    "BicycleSeat": {
+      "spin_val_parts_total_annotations": 23,
+      "spin_val_parts_multiple_count": 2,
+      "spin_val_parts_multiple_rate": 8.695652173913043
+    },
+    "BicycleTire": {
+      "agreeTest_total_annotations": 10,
+      "agreeTest_multiple_count": 0,
+      "agreeTest_multiple_rate": 0.0
+    },
+    "BicycleTier": {
+      "spin_val_parts_total_annotations": 7,
+      "spin_val_parts_multiple_count": 5,
+      "spin_val_parts_multiple_rate": 71.42857142857143
+    }
+  },
+  "summary_data": [
+    {
+      "category": "BicycleHead",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 23,
+      "reached_5_multiples": true,
+      "total_annotations": 23,
+      "multiple_count": 5,
+      "multiple_rate": 21.74
+    },
+    {
+      "category": "BicycleSeat",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 20,
+      "annotations_to_5_multiples": null,
+      "reached_5_multiples": false,
+      "total_annotations": 23,
+      "multiple_count": 2,
+      "multiple_rate": 8.7
+    },
+    {
+      "category": "BicycleTier",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 7,
+      "reached_5_multiples": true,
+      "total_annotations": 7,
+      "multiple_count": 5,
+      "multiple_rate": 71.43
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 7.333333333333333,
+    "avg_multiple_rate": 33.95666666666667,
+    "total_first_multiples": 3,
+    "first_multiples_annotations": [
+      1,
+      20,
+      1
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 20,
+    "splits_reaching_5_multiples": 2,
+    "avg_annotations_to_5_multiples": 15.0
+  }
+}

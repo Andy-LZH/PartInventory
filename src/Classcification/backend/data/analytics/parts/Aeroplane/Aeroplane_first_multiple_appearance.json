@@ -1,0 +1,230 @@
+{
+  "supercategory": "Aeroplane",
+  "analysis_timestamp": "2025-09-15T09:58:01.209048",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "spin_test_parts",
+    "spin_val_parts",
+    "agreeTest"
+  ],
+  "subcategories": [
+    "AeroplaneHead",
+    "AeroplaneBody",
+    "AeroplaneEngine",
+    "AeroplaneWing",
+    "AeroplaneTail"
+  ],
+  "first_appearances": {
+    "AeroplaneEngine": {
+      "spin_test_parts": {
+        "first_multiple_at_annotation": 2,
+        "annotations_to_5_multiples": 8,
+        "total_annotations": 8,
+        "multiple_count": 5,
+        "multiple_rate": 62.5,
+        "reached_5_multiples": true
+      },
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 3,
+        "annotations_to_5_multiples": 9,
+        "total_annotations": 9,
+        "multiple_count": 5,
+        "multiple_rate": 55.56,
+        "reached_5_multiples": true
+      }
+    },
+    "AeroplaneWing": {
+      "spin_test_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 5,
+        "total_annotations": 5,
+        "multiple_count": 5,
+        "multiple_rate": 100.0,
+        "reached_5_multiples": true
+      },
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 6,
+        "total_annotations": 6,
+        "multiple_count": 5,
+        "multiple_rate": 83.33,
+        "reached_5_multiples": true
+      },
+      "agreeTest": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 5,
+        "total_annotations": 5,
+        "multiple_count": 5,
+        "multiple_rate": 100.0,
+        "reached_5_multiples": true
+      }
+    },
+    "AeroplaneTail": {
+      "spin_test_parts": {
+        "first_multiple_at_annotation": 11,
+        "annotations_to_5_multiples": null,
+        "total_annotations": 26,
+        "multiple_count": 2,
+        "multiple_rate": 7.69,
+        "reached_5_multiples": false
+      },
+      "agreeTest": {
+        "first_multiple_at_annotation": 10,
+        "annotations_to_5_multiples": 78,
+        "total_annotations": 78,
+        "multiple_count": 5,
+        "multiple_rate": 6.41,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "AeroplaneHead": {
+      "spin_test_parts_total_annotations": 31,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 14,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "AeroplaneBody": {
+      "spin_test_parts_total_annotations": 32,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 14,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "AeroplaneEngine": {
+      "spin_test_parts_total_annotations": 8,
+      "spin_test_parts_multiple_count": 5,
+      "spin_test_parts_multiple_rate": 62.5,
+      "spin_val_parts_total_annotations": 9,
+      "spin_val_parts_multiple_count": 5,
+      "spin_val_parts_multiple_rate": 55.55555555555556
+    },
+    "AeroplaneWing": {
+      "spin_test_parts_total_annotations": 5,
+      "spin_test_parts_multiple_count": 5,
+      "spin_test_parts_multiple_rate": 100.0,
+      "spin_val_parts_total_annotations": 6,
+      "spin_val_parts_multiple_count": 5,
+      "spin_val_parts_multiple_rate": 83.33333333333334,
+      "agreeTest_total_annotations": 5,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 100.0
+    },
+    "AeroplaneTail": {
+      "spin_test_parts_total_annotations": 26,
+      "spin_test_parts_multiple_count": 2,
+      "spin_test_parts_multiple_rate": 7.6923076923076925,
+      "spin_val_parts_total_annotations": 12,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0,
+      "agreeTest_total_annotations": 78,
+      "agreeTest_multiple_count": 5,
+      "agreeTest_multiple_rate": 6.41025641025641
+    }
+  },
+  "summary_data": [
+    {
+      "category": "AeroplaneEngine",
+      "split": "spin_test_parts",
+      "first_multiple_at_annotation": 2,
+      "annotations_to_5_multiples": 8,
+      "reached_5_multiples": true,
+      "total_annotations": 8,
+      "multiple_count": 5,
+      "multiple_rate": 62.5
+    },
+    {
+      "category": "AeroplaneEngine",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 3,
+      "annotations_to_5_multiples": 9,
+      "reached_5_multiples": true,
+      "total_annotations": 9,
+      "multiple_count": 5,
+      "multiple_rate": 55.56
+    },
+    {
+      "category": "AeroplaneWing",
+      "split": "spin_test_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 5,
+      "reached_5_multiples": true,
+      "total_annotations": 5,
+      "multiple_count": 5,
+      "multiple_rate": 100.0
+    },
+    {
+      "category": "AeroplaneWing",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 6,
+      "reached_5_multiples": true,
+      "total_annotations": 6,
+      "multiple_count": 5,
+      "multiple_rate": 83.33
+    },
+    {
+      "category": "AeroplaneWing",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 5,
+      "reached_5_multiples": true,
+      "total_annotations": 5,
+      "multiple_count": 5,
+      "multiple_rate": 100.0
+    },
+    {
+      "category": "AeroplaneTail",
+      "split": "spin_test_parts",
+      "first_multiple_at_annotation": 11,
+      "annotations_to_5_multiples": null,
+      "reached_5_multiples": false,
+      "total_annotations": 26,
+      "multiple_count": 2,
+      "multiple_rate": 7.69
+    },
+    {
+      "category": "AeroplaneTail",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": null,
+      "annotations_to_10_multiples": null,
+      "reached_10_multiples": false,
+      "total_annotations": 12,
+      "multiple_count": 0,
+      "multiple_rate": 0.0
+    },
+    {
+      "category": "AeroplaneTail",
+      "split": "agreeTest",
+      "first_multiple_at_annotation": 10,
+      "annotations_to_5_multiples": 78,
+      "reached_5_multiples": true,
+      "total_annotations": 78,
+      "multiple_count": 5,
+      "multiple_rate": 6.41
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 4.142857142857143,
+    "avg_multiple_rate": 59.355714285714285,
+    "total_first_multiples": 7,
+    "first_multiples_annotations": [
+      2,
+      3,
+      1,
+      1,
+      1,
+      11,
+      10
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 11,
+    "splits_reaching_5_multiples": 6,
+    "avg_annotations_to_5_multiples": 18.5
+  }
+}

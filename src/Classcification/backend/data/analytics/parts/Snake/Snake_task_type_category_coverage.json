@@ -1,0 +1,92 @@
+{
+  "agreeTest": {
+    "SnakeHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "SnakeBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_val_parts": {
+    "SnakeHead": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 57,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "SnakeBody": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 60,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_test_parts": {
+    "SnakeHead": {
+      "groups_found": 11,
+      "submissions_found": 22,
+      "agreed": 109,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "SnakeBody": {
+      "groups_found": 12,
+      "submissions_found": 24,
+      "agreed": 117,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_train_parts": {
+    "SnakeHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "SnakeBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "main": {
+    "SnakeHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "SnakeBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  }
+}

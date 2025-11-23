@@ -1,0 +1,55 @@
+{
+  "agreeTest": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  },
+  "spin_val_parts": {
+    "groups_found": 6,
+    "submissions_found": 12,
+    "agreed": 49,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BoatBody",
+      "BoatSail"
+    ],
+    "status": "OK"
+  },
+  "spin_test_parts": {
+    "groups_found": 11,
+    "submissions_found": 22,
+    "agreed": 92,
+    "disagreed": 3,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BoatBody",
+      "BoatSail"
+    ],
+    "status": "OK"
+  },
+  "spin_train_parts": {
+    "groups_found": 37,
+    "submissions_found": 37,
+    "agreed": 363,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "BoatSail"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

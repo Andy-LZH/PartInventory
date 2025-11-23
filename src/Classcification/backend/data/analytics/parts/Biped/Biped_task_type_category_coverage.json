@@ -1,0 +1,212 @@
+{
+  "agreeTest": {
+    "BipedHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedArm": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 97,
+      "disagreed": 3,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BipedLeg": {
+      "groups_found": 10,
+      "submissions_found": 30,
+      "agreed": 94,
+      "disagreed": 6,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BipedTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_val_parts": {
+    "BipedHead": {
+      "groups_found": 6,
+      "submissions_found": 11,
+      "agreed": 49,
+      "disagreed": 1,
+      "insufficient": 10,
+      "status": "OK"
+    },
+    "BipedBody": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 59,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BipedArm": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedLeg": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedTail": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 21,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_test_parts": {
+    "BipedHead": {
+      "groups_found": 12,
+      "submissions_found": 24,
+      "agreed": 117,
+      "disagreed": 1,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BipedBody": {
+      "groups_found": 12,
+      "submissions_found": 24,
+      "agreed": 120,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BipedArm": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedLeg": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedTail": {
+      "groups_found": 5,
+      "submissions_found": 10,
+      "agreed": 49,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_train_parts": {
+    "BipedHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedArm": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedLeg": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "main": {
+    "BipedHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BipedArm": {
+      "groups_found": 107,
+      "submissions_found": 107,
+      "agreed": 1064,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BipedLeg": {
+      "groups_found": 78,
+      "submissions_found": 78,
+      "agreed": 773,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BipedTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  }
+}

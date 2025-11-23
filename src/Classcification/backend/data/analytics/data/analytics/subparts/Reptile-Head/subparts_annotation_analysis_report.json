@@ -1,0 +1,361 @@
+{
+  "analysis_type": "subpart_level",
+  "subpart_categories": [
+    "Reptile-Head-Eyes",
+    "Reptile-Head-Mouth",
+    "Reptile-Head-Nostrils",
+    "Reptile-Head-Tongue",
+    "Reptile-Head-Neck",
+    "Reptile-Head-Forehead",
+    "Reptile-Head-Ears",
+    "Reptile-Head-Casque",
+    "Reptile-Head-Hood",
+    "Reptile-Head-Throatpouch"
+  ],
+  "analysis_timestamp": "2025-10-03T14:08:17.156128",
+  "total_disagreed_annotations": 16,
+  "total_insufficient_annotations": 0,
+  "total_annotations_analyzed": 150,
+  "agreement_rate": 89.33333333333333,
+  "disagreement_rate": 10.666666666666668,
+  "insufficient_rate": 0.0,
+  "case_disagreements": [
+    {
+      "subpart_category": "Reptile-Head-Eyes",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 4,
+      "s3_path": "HITs/Reptile-Head-Eyes/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Eyes",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 5,
+      "s3_path": "HITs/Reptile-Head-Eyes/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Eyes",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 8,
+      "s3_path": "HITs/Reptile-Head-Eyes/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Eyes",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 2,
+      "s3_path": "HITs/Reptile-Head-Eyes/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 6,
+      "s3_path": "HITs/Reptile-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 9,
+      "s3_path": "HITs/Reptile-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 7,
+      "s3_path": "HITs/Reptile-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Nostrils",
+      "task_type": "agreeTest",
+      "group_index": 4,
+      "annotation_index": 3,
+      "s3_path": "HITs/Reptile-Head-Nostrils/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Ears",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 0,
+      "s3_path": "HITs/Reptile-Head-Ears/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Ears",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 4,
+      "s3_path": "HITs/Reptile-Head-Ears/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Ears",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 6,
+      "s3_path": "HITs/Reptile-Head-Ears/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Ears",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 8,
+      "s3_path": "HITs/Reptile-Head-Ears/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Ears",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 1,
+      "s3_path": "HITs/Reptile-Head-Ears/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Ears",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 5,
+      "s3_path": "HITs/Reptile-Head-Ears/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Ears",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 1,
+      "s3_path": "HITs/Reptile-Head-Ears/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subpart_category": "Reptile-Head-Ears",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 2,
+      "s3_path": "HITs/Reptile-Head-Ears/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        -1
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "1": 1,
+        "-1": 1
+      }
+    }
+  ],
+  "case_insufficient": []
+}

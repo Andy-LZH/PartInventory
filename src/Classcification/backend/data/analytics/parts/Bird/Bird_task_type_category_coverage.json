@@ -1,0 +1,212 @@
+{
+  "agreeTest": {
+    "BirdHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BirdBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BirdWing": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 96,
+      "disagreed": 4,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdFoot": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 90,
+      "disagreed": 10,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_val_parts": {
+    "BirdHead": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 60,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdBody": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 60,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdWing": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 24,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdFoot": {
+      "groups_found": 5,
+      "submissions_found": 10,
+      "agreed": 45,
+      "disagreed": 5,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdTail": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 54,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_test_parts": {
+    "BirdHead": {
+      "groups_found": 12,
+      "submissions_found": 24,
+      "agreed": 120,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdBody": {
+      "groups_found": 12,
+      "submissions_found": 24,
+      "agreed": 120,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdWing": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 24,
+      "disagreed": 2,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdFoot": {
+      "groups_found": 9,
+      "submissions_found": 18,
+      "agreed": 76,
+      "disagreed": 7,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdTail": {
+      "groups_found": 10,
+      "submissions_found": 20,
+      "agreed": 93,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_train_parts": {
+    "BirdHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BirdBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BirdWing": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BirdFoot": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BirdTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "main": {
+    "BirdHead": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BirdBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BirdWing": {
+      "groups_found": 24,
+      "submissions_found": 24,
+      "agreed": 233,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdFoot": {
+      "groups_found": 79,
+      "submissions_found": 79,
+      "agreed": 786,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BirdTail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  }
+}

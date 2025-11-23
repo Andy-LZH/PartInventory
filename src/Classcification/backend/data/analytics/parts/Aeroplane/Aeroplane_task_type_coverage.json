@@ -1,0 +1,26 @@
+{
+  "agreeTest": {
+    "groups_found": 20,
+    "submissions_found": 40,
+    "agreed": 180,
+    "disagreed": 20,
+    "insufficient": 0,
+    "categories_with_results": [
+      "AeroplaneTail",
+      "AeroplaneWing"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 36,
+    "submissions_found": 36,
+    "agreed": 349,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "AeroplaneTail",
+      "AeroplaneWing"
+    ],
+    "status": "OK"
+  }
+}

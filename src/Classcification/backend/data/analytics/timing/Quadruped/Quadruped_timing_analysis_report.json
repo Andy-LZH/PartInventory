@@ -1,0 +1,73 @@
+{
+  "analysis_scope": "Quadruped",
+  "subcategories": [
+    "QuadrupedHead",
+    "QuadrupedBody",
+    "QuadrupedFoot",
+    "QuadrupedTail"
+  ],
+  "analysis_timestamp": "2025-08-25T13:37:00.461249",
+  "total_assignments": 101,
+  "total_hit_ids": 56,
+  "duration_statistics": {
+    "mean_minutes": 8.74257425742574,
+    "median_minutes": 4.766666666666667,
+    "std_minutes": 8.988967458701659,
+    "min_minutes": 0.8666666666666667,
+    "max_minutes": 40.516666666666666,
+    "q25_minutes": 3.1,
+    "q75_minutes": 11.533333333333333
+  },
+  "category_statistics": {
+    "QuadrupedBody": {
+      "count": 25,
+      "mean": 16.81,
+      "median": 14.1,
+      "std": 13.81,
+      "min": 1.33,
+      "max": 40.52
+    },
+    "QuadrupedFoot": {
+      "count": 27,
+      "mean": 4.62,
+      "median": 3.48,
+      "std": 3.12,
+      "min": 1.13,
+      "max": 11.53
+    },
+    "QuadrupedHead": {
+      "count": 35,
+      "mean": 6.11,
+      "median": 4.77,
+      "std": 4.12,
+      "min": 0.87,
+      "max": 14.95
+    },
+    "QuadrupedTail": {
+      "count": 14,
+      "mean": 8.88,
+      "median": 8.15,
+      "std": 5.14,
+      "min": 2.57,
+      "max": 15.65
+    }
+  },
+  "task_type_statistics": {
+    "spin_test_parts": {
+      "count": 63,
+      "mean": 9.51,
+      "median": 5.15,
+      "std": 9.54,
+      "min": 0.87,
+      "max": 40.52
+    },
+    "spin_val_parts": {
+      "count": 38,
+      "mean": 7.47,
+      "median": 3.5,
+      "std": 7.95,
+      "min": 1.33,
+      "max": 32.53
+    }
+  }
+}

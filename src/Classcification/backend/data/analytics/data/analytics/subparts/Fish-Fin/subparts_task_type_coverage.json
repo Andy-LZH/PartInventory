@@ -1,0 +1,24 @@
+{
+  "agreeTest": {
+    "groups_found": 15,
+    "submissions_found": 30,
+    "agreed": 139,
+    "disagreed": 11,
+    "insufficient": 0,
+    "categories_with_results": [
+      "Fish-Fin-DorsalFins",
+      "Fish-Fin-PectoralFins",
+      "Fish-Fin-VentralFins"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

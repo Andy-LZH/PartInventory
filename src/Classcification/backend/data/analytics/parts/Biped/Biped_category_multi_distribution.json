@@ -1,0 +1,32 @@
+[
+  {
+    "category": "BipedArm",
+    "multi_count": 916,
+    "total": 1161,
+    "multi_rate": 78.9
+  },
+  {
+    "category": "BipedLeg",
+    "multi_count": 543,
+    "total": 867,
+    "multi_rate": 62.63
+  },
+  {
+    "category": "BipedBody",
+    "multi_count": 0,
+    "total": 179,
+    "multi_rate": 0.0
+  },
+  {
+    "category": "BipedHead",
+    "multi_count": 0,
+    "total": 166,
+    "multi_rate": 0.0
+  },
+  {
+    "category": "BipedTail",
+    "multi_count": 0,
+    "total": 70,
+    "multi_rate": 0.0
+  }
+]

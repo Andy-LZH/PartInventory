@@ -1,0 +1,23 @@
+{
+  "agreeTest": {
+    "groups_found": 10,
+    "submissions_found": 19,
+    "agreed": 87,
+    "disagreed": 3,
+    "insufficient": 10,
+    "categories_with_results": [
+      "Biped-Head-Ears",
+      "Biped-Head-Eyes"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

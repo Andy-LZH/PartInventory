@@ -1,0 +1,441 @@
+{
+  "supercategory": "Aeroplane",
+  "subcategories": [
+    "AeroplaneHead",
+    "AeroplaneBody",
+    "AeroplaneEngine",
+    "AeroplaneWing",
+    "AeroplaneTail"
+  ],
+  "analysis_timestamp": "2025-09-11T18:08:33.379694",
+  "analysis_type": "annotation_level",
+  "total_disagreed_annotations": 20,
+  "total_insufficient_annotations": 0,
+  "total_annotations_analyzed": 549,
+  "agreement_rate": 96.35701275045537,
+  "disagreement_rate": 3.642987249544627,
+  "insufficient_rate": 0.0,
+  "case_disagreements": [
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 7,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 1,
+      "annotation_index": 4,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 4,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        1
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "1": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 7,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 5,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 6,
+      "annotation_index": 6,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 6,
+      "annotation_index": 7,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        -1
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "1": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 7,
+      "annotation_index": 7,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        1
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "1": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 8,
+      "annotation_index": 4,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 9,
+      "annotation_index": 2,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneWing",
+      "task_type": "agreeTest",
+      "group_index": 9,
+      "annotation_index": 7,
+      "s3_path": "HITs/AeroplaneWing/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneTail",
+      "task_type": "agreeTest",
+      "group_index": 0,
+      "annotation_index": 9,
+      "s3_path": "HITs/AeroplaneTail/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneTail",
+      "task_type": "agreeTest",
+      "group_index": 2,
+      "annotation_index": 3,
+      "s3_path": "HITs/AeroplaneTail/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneTail",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 4,
+      "s3_path": "HITs/AeroplaneTail/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneTail",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 5,
+      "s3_path": "HITs/AeroplaneTail/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneTail",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 6,
+      "s3_path": "HITs/AeroplaneTail/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneTail",
+      "task_type": "agreeTest",
+      "group_index": 3,
+      "annotation_index": 9,
+      "s3_path": "HITs/AeroplaneTail/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneTail",
+      "task_type": "agreeTest",
+      "group_index": 5,
+      "annotation_index": 3,
+      "s3_path": "HITs/AeroplaneTail/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        -1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Something is wrong"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneTail",
+      "task_type": "agreeTest",
+      "group_index": 7,
+      "annotation_index": 5,
+      "s3_path": "HITs/AeroplaneTail/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        1,
+        0
+      ],
+      "result_labels": [
+        "Multiple Instances",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    },
+    {
+      "subcategory": "AeroplaneTail",
+      "task_type": "agreeTest",
+      "group_index": 8,
+      "annotation_index": 5,
+      "s3_path": "HITs/AeroplaneTail/agreeTest/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        0,
+        1
+      ],
+      "result_labels": [
+        "One Instance",
+        "Multiple Instances"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "1": 1
+      }
+    }
+  ],
+  "case_insufficient": []
+}

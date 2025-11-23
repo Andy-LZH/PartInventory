@@ -1,0 +1,22 @@
+{
+  "agreeTest": {
+    "groups_found": 5,
+    "submissions_found": 10,
+    "agreed": 43,
+    "disagreed": 5,
+    "insufficient": 0,
+    "categories_with_results": [
+      "Aeroplane-Body-Windshield"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

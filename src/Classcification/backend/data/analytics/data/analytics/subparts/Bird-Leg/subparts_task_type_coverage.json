@@ -1,0 +1,28 @@
+{
+  "agreeTest": {
+    "groups_found": 35,
+    "submissions_found": 70,
+    "agreed": 291,
+    "disagreed": 59,
+    "insufficient": 0,
+    "categories_with_results": [
+      "Bird-Legs-Ankle",
+      "Bird-Legs-Claws",
+      "Bird-Legs-Knee",
+      "Bird-Legs-Shankforearm",
+      "Bird-Legs-Thigh",
+      "Bird-Legs-Toes",
+      "Bird-Legs-Webbing"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

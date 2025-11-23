@@ -1,0 +1,59 @@
+{
+  "agreeTest": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  },
+  "spin_val_parts": {
+    "groups_found": 21,
+    "submissions_found": 42,
+    "agreed": 201,
+    "disagreed": 3,
+    "insufficient": 0,
+    "categories_with_results": [
+      "ReptileBody",
+      "ReptileFoot",
+      "ReptileHead",
+      "ReptileTail"
+    ],
+    "status": "OK"
+  },
+  "spin_test_parts": {
+    "groups_found": 41,
+    "submissions_found": 82,
+    "agreed": 397,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "ReptileBody",
+      "ReptileFoot",
+      "ReptileHead",
+      "ReptileTail"
+    ],
+    "status": "OK"
+  },
+  "spin_train_parts": {
+    "groups_found": 98,
+    "submissions_found": 98,
+    "agreed": 976,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [
+      "ReptileFoot"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

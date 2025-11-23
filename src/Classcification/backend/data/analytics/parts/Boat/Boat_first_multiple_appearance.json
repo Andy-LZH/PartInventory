@@ -1,0 +1,88 @@
+{
+  "supercategory": "Boat",
+  "analysis_timestamp": "2025-09-15T09:57:54.011697",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "spin_test_parts",
+    "spin_val_parts",
+    "agreeTest"
+  ],
+  "subcategories": [
+    "BoatBody",
+    "BoatSail"
+  ],
+  "first_appearances": {
+    "BoatSail": {
+      "spin_test_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 6,
+        "total_annotations": 6,
+        "multiple_count": 5,
+        "multiple_rate": 83.33,
+        "reached_5_multiples": true
+      },
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 1,
+        "annotations_to_5_multiples": 5,
+        "total_annotations": 5,
+        "multiple_count": 5,
+        "multiple_rate": 100.0,
+        "reached_5_multiples": true
+      }
+    }
+  },
+  "split_statistics": {
+    "BoatBody": {
+      "spin_test_parts_total_annotations": 51,
+      "spin_test_parts_multiple_count": 0,
+      "spin_test_parts_multiple_rate": 0.0,
+      "spin_val_parts_total_annotations": 28,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    },
+    "BoatSail": {
+      "spin_test_parts_total_annotations": 6,
+      "spin_test_parts_multiple_count": 5,
+      "spin_test_parts_multiple_rate": 83.33333333333334,
+      "spin_val_parts_total_annotations": 5,
+      "spin_val_parts_multiple_count": 5,
+      "spin_val_parts_multiple_rate": 100.0
+    }
+  },
+  "summary_data": [
+    {
+      "category": "BoatSail",
+      "split": "spin_test_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 6,
+      "reached_5_multiples": true,
+      "total_annotations": 6,
+      "multiple_count": 5,
+      "multiple_rate": 83.33
+    },
+    {
+      "category": "BoatSail",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 1,
+      "annotations_to_5_multiples": 5,
+      "reached_5_multiples": true,
+      "total_annotations": 5,
+      "multiple_count": 5,
+      "multiple_rate": 100.0
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 1.0,
+    "avg_multiple_rate": 91.66499999999999,
+    "total_first_multiples": 2,
+    "first_multiples_annotations": [
+      1,
+      1
+    ],
+    "min_first_multiple": 1,
+    "max_first_multiple": 1,
+    "splits_reaching_5_multiples": 2,
+    "avg_annotations_to_5_multiples": 5.5
+  }
+}

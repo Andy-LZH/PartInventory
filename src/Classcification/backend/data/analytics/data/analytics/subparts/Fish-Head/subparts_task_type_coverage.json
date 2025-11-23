@@ -1,0 +1,24 @@
+{
+  "agreeTest": {
+    "groups_found": 15,
+    "submissions_found": 29,
+    "agreed": 135,
+    "disagreed": 5,
+    "insufficient": 10,
+    "categories_with_results": [
+      "Fish-Head-Eyes",
+      "Fish-Head-Gills",
+      "Fish-Head-Snout"
+    ],
+    "status": "OK"
+  },
+  "main": {
+    "groups_found": 0,
+    "submissions_found": 0,
+    "agreed": 0,
+    "disagreed": 0,
+    "insufficient": 0,
+    "categories_with_results": [],
+    "status": "MISSING"
+  }
+}

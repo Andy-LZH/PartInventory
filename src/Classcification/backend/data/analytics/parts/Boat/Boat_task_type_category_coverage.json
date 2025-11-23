@@ -1,0 +1,92 @@
+{
+  "agreeTest": {
+    "BoatBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BoatSail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  },
+  "spin_val_parts": {
+    "BoatBody": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 28,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BoatSail": {
+      "groups_found": 3,
+      "submissions_found": 6,
+      "agreed": 21,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_test_parts": {
+    "BoatBody": {
+      "groups_found": 6,
+      "submissions_found": 12,
+      "agreed": 51,
+      "disagreed": 2,
+      "insufficient": 0,
+      "status": "OK"
+    },
+    "BoatSail": {
+      "groups_found": 5,
+      "submissions_found": 10,
+      "agreed": 41,
+      "disagreed": 1,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "spin_train_parts": {
+    "BoatBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BoatSail": {
+      "groups_found": 37,
+      "submissions_found": 37,
+      "agreed": 363,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "OK"
+    }
+  },
+  "main": {
+    "BoatBody": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    },
+    "BoatSail": {
+      "groups_found": 0,
+      "submissions_found": 0,
+      "agreed": 0,
+      "disagreed": 0,
+      "insufficient": 0,
+      "status": "MISSING"
+    }
+  }
+}

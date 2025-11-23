@@ -1,0 +1,32 @@
+[
+  {
+    "category": "BirdFoot",
+    "multi_count": 831,
+    "total": 997,
+    "multi_rate": 83.35
+  },
+  {
+    "category": "BirdWing",
+    "multi_count": 297,
+    "total": 377,
+    "multi_rate": 78.78
+  },
+  {
+    "category": "BirdBody",
+    "multi_count": 0,
+    "total": 180,
+    "multi_rate": 0.0
+  },
+  {
+    "category": "BirdHead",
+    "multi_count": 0,
+    "total": 180,
+    "multi_rate": 0.0
+  },
+  {
+    "category": "BirdTail",
+    "multi_count": 0,
+    "total": 147,
+    "multi_rate": 0.0
+  }
+]

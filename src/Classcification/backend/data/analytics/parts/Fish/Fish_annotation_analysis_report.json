@@ -1,0 +1,62 @@
+{
+  "supercategory": "Fish",
+  "subcategories": [
+    "FishHead",
+    "FishBody",
+    "FishFin",
+    "FishTail"
+  ],
+  "analysis_timestamp": "2025-09-10T17:41:57.957676",
+  "analysis_type": "annotation_level",
+  "total_disagreed_annotations": 2,
+  "total_insufficient_annotations": 0,
+  "total_annotations_analyzed": 1671,
+  "agreement_rate": 99.88031119090365,
+  "disagreement_rate": 0.11968880909634949,
+  "insufficient_rate": 0.0,
+  "case_disagreements": [
+    {
+      "subcategory": "FishBody",
+      "task_type": "spin_test_parts",
+      "group_index": 4,
+      "annotation_index": 7,
+      "s3_path": "HITs/FishBody/spin_test_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    },
+    {
+      "subcategory": "FishTail",
+      "task_type": "spin_test_parts",
+      "group_index": 0,
+      "annotation_index": 0,
+      "s3_path": "HITs/FishTail/spin_test_parts/live/",
+      "reason": "No result has 2+ agreements",
+      "submission_count": 2,
+      "results": [
+        -1,
+        0
+      ],
+      "result_labels": [
+        "Something is wrong",
+        "One Instance"
+      ],
+      "result_distribution": {
+        "0": 1,
+        "-1": 1
+      }
+    }
+  ],
+  "case_insufficient": []
+}

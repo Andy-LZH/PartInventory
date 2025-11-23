@@ -1,0 +1,64 @@
+{
+  "supercategory": "Snake",
+  "analysis_timestamp": "2025-09-22T10:34:28.070194",
+  "analysis_type": "first_multiple_appearance",
+  "splits_analyzed": [
+    "agreeTest",
+    "spin_val_parts",
+    "spin_test_parts",
+    "main"
+  ],
+  "subcategories": [
+    "SnakeHead",
+    "SnakeBody"
+  ],
+  "first_appearances": {
+    "SnakeHead": {
+      "spin_val_parts": {
+        "first_multiple_at_annotation": 12,
+        "annotations_to_5_multiples": null,
+        "total_annotations": 57,
+        "multiple_count": 1,
+        "multiple_rate": 1.75,
+        "reached_5_multiples": false
+      }
+    }
+  },
+  "split_statistics": {
+    "SnakeHead": {
+      "spin_val_parts_total_annotations": 57,
+      "spin_val_parts_multiple_count": 1,
+      "spin_val_parts_multiple_rate": 1.7543859649122806
+    },
+    "SnakeBody": {
+      "spin_val_parts_total_annotations": 60,
+      "spin_val_parts_multiple_count": 0,
+      "spin_val_parts_multiple_rate": 0.0
+    }
+  },
+  "summary_data": [
+    {
+      "category": "SnakeHead",
+      "split": "spin_val_parts",
+      "first_multiple_at_annotation": 12,
+      "annotations_to_5_multiples": null,
+      "reached_5_multiples": false,
+      "total_annotations": 57,
+      "multiple_count": 1,
+      "multiple_rate": 1.75
+    }
+  ],
+  "supercategory_stats": {
+    "progressions": [],
+    "avg_first_multiple": 12.0,
+    "avg_multiple_rate": 1.75,
+    "total_first_multiples": 1,
+    "first_multiples_annotations": [
+      12
+    ],
+    "min_first_multiple": 12,
+    "max_first_multiple": 12,
+    "splits_reaching_5_multiples": 0,
+    "avg_annotations_to_5_multiples": 0.0
+  }
+}
