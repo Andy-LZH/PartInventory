@@ -1,6 +1,17 @@
-# PartInventory: Differentiating Instances from semantics
+# PartInventory: Navigating Semantic and Instance Segmentation
 
-**PartInventory** is a full-stack annotation and dataset creation system built to produce high-quality, instance-level part annotations from semantic masks (e.g., PartImageNet). The platform integrates CVAT-based task management with a custom crowdsourcing pipeline on MTurk, enabling efficient identification of single vs. multiple part instances and high-fidelity instance splits.
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Under_Construction-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+
+</div>
+
+**PartInventory** is a full-stack annotation and dataset creation system designed to navigate the transition from semantic masks to high-quality, instance-level part annotations (e.g., PartImageNet). The platform integrates CVAT-based task management with a custom crowdsourcing pipeline on MTurk, enabling efficient identification of single vs. multiple part instances and high-fidelity instance splits.
 
 The system supports all stages of benchmark creation—from preparing COCO-style data, distributing tasks to workers, collecting classifications, exporting CVAT instance masks, and generating analytics—ensuring scalable, consistent, and reproducible part-level datasets.
 
