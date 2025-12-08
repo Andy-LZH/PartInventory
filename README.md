@@ -2,16 +2,22 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Under_Construction-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Under_Construction-orange)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+[![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-F57F25)](https://huggingface.co/datasets/Andy-LZH/PartInventory)
 
 </div>
 
-**PartInventory** is a full-stack annotation and dataset creation system designed to navigate the transition from semantic masks to high-quality, instance-level part annotations (e.g., PartImageNet). The platform integrates CVAT-based task management with a custom crowdsourcing pipeline on MTurk, enabling efficient identification of single vs. multiple part instances and high-fidelity instance splits.
+**PartInventory** is a full-stack annotation and dataset creation system designed to navigate the transition from semantic masks to high-quality, instance-level part annotations. Specifically, this dataset provides **refined instance-level annotations** for **PartImageNet**, building upon the semantic segmentation masks from **SPIN**.
+
+The resulting dataset is available on Hugging Face: [🤗 PartInventory Dataset](https://huggingface.co/datasets/Andy-LZH/PartInventory).
+
+> **Disclaimer**: This project is a technical demonstration and portfolio piece. It is not intended for academic publication as original research. All credit for the underlying datasets and methodologies belongs to the respective authors of PartImageNet and SPIN.
+
+The platform integrates CVAT-based task management with a custom crowdsourcing pipeline on MTurk, enabling efficient identification of single vs. multiple part instances and high-fidelity instance splits.
 
 The system supports all stages of benchmark creation—from preparing COCO-style data, distributing tasks to workers, collecting classifications, exporting CVAT instance masks, and generating analytics—ensuring scalable, consistent, and reproducible part-level datasets.
 
@@ -163,3 +169,20 @@ pre-commit install
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📚 Citation
+
+If you use this dataset, please cite the original PartImageNet paper and the SPIN paper:
+
+```bibtex
+@article{he2021partimagenet,
+  title={PartImageNet: A Large, High-Quality Dataset of Parts},
+  author={He, Ju and Yang, Shuo and Yang, Shaokang and Kortylewski, Adam and Yuan, Xiaoding and Chen, Jie-Neng and Liu, Shuai and Yang, Cheng and Yuille, Alan},
+  journal={arXiv preprint arXiv:2112.00933},
+  year={2021}
+}
+
+% Please add the SPIN paper citation here
+```
